@@ -1,0 +1,1791 @@
+- generic [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#home"
+  - navigation "Main navigation" [ref=e3]:
+    - generic [ref=e4]:
+      - link "~/jagadeesh.dev" [ref=e5] [cursor=pointer]:
+        - /url: "#home"
+      - text: 
+      - list [ref=e6]:
+        - listitem [ref=e7]:
+          - link "Home" [ref=e8] [cursor=pointer]:
+            - /url: "#home"
+        - listitem [ref=e9]:
+          - link "About" [ref=e10] [cursor=pointer]:
+            - /url: "#about"
+        - listitem [ref=e11]:
+          - link "Work" [active] [ref=e12] [cursor=pointer]:
+            - /url: "#work"
+        - listitem [ref=e13]:
+          - link "Content" [ref=e14] [cursor=pointer]:
+            - /url: "#content"
+        - listitem [ref=e15]:
+          - link "Cohort" [ref=e16] [cursor=pointer]:
+            - /url: /cohort/
+        - listitem [ref=e17]:
+          - link "Newsletter" [ref=e18] [cursor=pointer]:
+            - /url: "#newsletter"
+        - listitem [ref=e19]:
+          - link "Deep Shift" [ref=e20] [cursor=pointer]:
+            - /url: "#deep-shift"
+        - listitem [ref=e21]:
+          - link "Jargon" [ref=e22] [cursor=pointer]:
+            - /url: "#jargon"
+        - listitem [ref=e23]:
+          - link "AI Models" [ref=e24] [cursor=pointer]:
+            - /url: "#ai-models"
+        - listitem [ref=e25]:
+          - link "Contact" [ref=e26] [cursor=pointer]:
+            - /url: "#contact"
+  - main [ref=e27]:
+    - link "New The QE Architect Accelerator — an 8-week cohort for QE and engineering leaders. Applications open November 2026. Join the waitlist" [ref=e28] [cursor=pointer]:
+      - /url: /cohort/
+      - generic [ref=e29]: New
+      - generic [ref=e30]: The QE Architect Accelerator — an 8-week cohort for QE and engineering leaders. Applications open November 2026.
+      - generic [ref=e31]:
+        - text: Join the waitlist
+        - generic [aria-hidden] [ref=e32]: 
+    - generic [ref=e34]:
+      - generic [ref=e35]:
+        - generic [ref=e36]:
+          - paragraph [ref=e37]: Lead Quality Engineer · since 2011
+          - heading "I help teams ship higher‑quality software with smarter testing and automation." [level=1] [ref=e39]
+          - paragraph [ref=e40]: I build reliable browser automation, craft AI‑powered workflows, and share practical testing insights on YouTube to help modern engineering teams move faster.
+          - generic [ref=e41]:
+            - link "Explore my work" [ref=e42] [cursor=pointer]:
+              - /url: "#work"
+              - text: Explore my work
+              - generic [aria-hidden] [ref=e43]: 
+            - link "View my content" [ref=e44] [cursor=pointer]:
+              - /url: "#content"
+              - generic [aria-hidden] [ref=e45]: 
+              - text: View my content
+          - generic [ref=e46]:
+            - generic [ref=e47]:
+              - link "LinkedIn" [ref=e48] [cursor=pointer]:
+                - /url: https://www.linkedin.com/in/jagadeesh-jayachandran/
+                - generic [aria-hidden] [ref=e49]: 
+              - link "YouTube" [ref=e50] [cursor=pointer]:
+                - /url: https://youtube.com/@JagadeeshJayachandran
+                - generic [aria-hidden] [ref=e51]: 
+              - link "GitHub" [ref=e52] [cursor=pointer]:
+                - /url: https://github.com/JagadeeshJayachandran
+                - generic [aria-hidden] [ref=e53]: 
+            - link "Schedule a 1:1 chat" [ref=e55] [cursor=pointer]:
+              - /url: https://calendar.app.google/iJVNFyeHuAaxFiCh7
+              - generic [aria-hidden] [ref=e56]: 
+              - text: Schedule a 1:1 chat
+        - generic [aria-hidden] [ref=e57]:
+          - generic [ref=e58]: jagadeesh@qe ~ zsh
+          - generic [ref=e63]:
+            - paragraph [ref=e64]: $whoami
+            - paragraph [ref=e65]: Lead Quality Engineer — automation · AI workflows · content
+            - paragraph [ref=e66]: $npx playwright test quality.spec.ts
+            - paragraph [ref=e67]: ✓ reliable test automation ······· passed
+            - paragraph [ref=e68]: ✓ ai-assisted testing ············ passed
+            - paragraph [ref=e69]: ✓ workflow automation ············ passed
+            - paragraph [ref=e70]: ✓ educational content ············ passed
+            - paragraph [ref=e71]: 4 passed (14y 0s)
+            - paragraph [ref=e72]: $
+      - generic [ref=e74]:
+        - generic [ref=e75]:
+          - generic [ref=e76]:
+            - text: "14"
+            - emphasis [ref=e77]: +
+          - generic [ref=e78]: years in Quality Engineering
+        - generic [ref=e79]:
+          - generic [ref=e80]: "3"
+          - generic [ref=e81]: tools & extensions shipped
+        - generic [ref=e82]:
+          - generic [ref=e83]: "66"
+          - generic [ref=e84]: interview problems in the Practice Lab
+        - generic [ref=e85]:
+          - generic [ref=e86]:
+            - text: "85"
+            - emphasis [ref=e87]: +
+          - generic [ref=e88]: jargon terms decoded
+      - generic [ref=e90]:
+        - generic [ref=e91]:
+          - generic [aria-hidden] [ref=e92]: 
+          - generic [ref=e93]:
+            - text: Join
+            - strong [ref=e94]: The QE Shift
+            - text: — biweekly insights for QEs levelling up
+        - link "Subscribe" [ref=e95] [cursor=pointer]:
+          - /url: "#newsletter"
+          - text: Subscribe
+          - generic [aria-hidden] [ref=e96]: 
+    - generic [ref=e98]:
+      - generic [ref=e99]:
+        - paragraph [ref=e100]: 01 · Who I am
+        - heading "About Me" [level=2] [ref=e101]
+      - generic [ref=e103]:
+        - paragraph [ref=e104]:
+          - text: With over
+          - strong [ref=e105]: 14 years in QA/QE
+          - text: (starting in 2011), I specialize in crafting robust testing strategies and automated solutions. I've spearheaded test infrastructure modernization across complex web platforms using tools like
+          - strong [ref=e106]: Playwright and Node.js
+          - text: . Beyond the codebase, I am a passionate content creator on YouTube, focused on championing quality cultures and integrating AI‑assisted testing to elevate product quality from day one.
+        - generic [ref=e107]:
+          - heading "What I focus on" [level=3] [ref=e108]
+          - list [ref=e109]:
+            - listitem [ref=e110]:
+              - generic [aria-hidden] [ref=e111]: 
+              - generic [ref=e112]:
+                - strong [ref=e113]: Reliable test automation
+                - text: for complex web and mobile applications.
+            - listitem [ref=e114]:
+              - generic [aria-hidden] [ref=e115]: 
+              - generic [ref=e116]:
+                - strong [ref=e117]: Practical AI in testing
+                - text: and quality engineering to uncover edge cases.
+            - listitem [ref=e118]:
+              - generic [aria-hidden] [ref=e119]: 
+              - generic [ref=e120]:
+                - strong [ref=e121]: Automation workflows
+                - text: that save engineers hours each week.
+            - listitem [ref=e122]:
+              - generic [aria-hidden] [ref=e123]: 
+              - generic [ref=e124]:
+                - strong [ref=e125]: Clear educational content
+                - text: for QEs and engineering teams globally.
+    - generic [ref=e127]:
+      - generic [ref=e128]:
+        - paragraph [ref=e129]: 02 · Selected work
+        - heading "My Work" [level=2] [ref=e130]
+      - tablist "Work categories" [ref=e132]:
+        - tab "Automations & Tools" [selected] [ref=e133] [cursor=pointer]
+        - tab "Prompts & Custom GPTs" [ref=e134] [cursor=pointer]
+        - tab "QE Projects" [ref=e135] [cursor=pointer]
+      - tabpanel "Automations & Tools" [ref=e136]:
+        - generic [ref=e137]:
+          - generic [ref=e138]:
+            - generic [ref=e139]:
+              - 'heading "Recall: Smart Bookmark Search" [level=3] [ref=e140]'
+              - generic [ref=e141]: Chrome Extension
+            - generic [ref=e142]:
+              - paragraph [ref=e143]: Recall turns your messy bookmark library into a smart, visual memory bank. It auto‑extracts keywords from titles, URLs, and page content so you can find any bookmark instantly with natural‑language search like "that ML article from last week".
+              - paragraph [ref=e144]: Quick‑save buttons, highlights, a Read Later list, visual snapshots, weekly insights, and AI‑powered auto‑categories make it easy to capture and rediscover what matters—without leaving your browser.
+            - generic [ref=e145]:
+              - generic [ref=e146]: Chrome API
+              - generic [ref=e147]: JavaScript
+              - generic [ref=e148]: AI
+            - link "Download on Web Store" [ref=e150] [cursor=pointer]:
+              - /url: https://chromewebstore.google.com/detail/recall-smart-bookmark-sea/iijijlphflobabngdpakfefafhgnnflc
+              - text: Download on Web Store
+              - generic [aria-hidden] [ref=e151]: 
+          - generic [ref=e152]:
+            - generic [ref=e153]:
+              - heading "LinkedIn Carousel Pipeline" [level=3] [ref=e154]
+              - generic [ref=e155]: Workflow
+            - generic [ref=e156]:
+              - paragraph [ref=e157]: An end‑to‑end workflow that connects research, AI‑generated copy, design tools, and scheduling to create and publish daily QA/AI carousels with minimal manual work.
+              - paragraph [ref=e158]: Keeps a consistent posting cadence in under 15 minutes per day while maintaining high content quality.
+            - generic [ref=e159]:
+              - generic [ref=e160]: Make.com
+              - generic [ref=e161]: API Integration
+              - generic [ref=e162]: AI
+          - generic [ref=e163]:
+            - generic [ref=e164]:
+              - heading "Micro‑Automation Toolkit" [level=3] [ref=e165]
+              - generic [ref=e166]:
+                - generic [aria-hidden] [ref=e167]: 
+                - text: Coming Soon
+            - paragraph [ref=e169]: A collection of tiny, focused automation tools to remove repetitive work for QEs—from log parsing to flaky test triage helpers and lightweight quality dashboards.
+            - generic [ref=e170]:
+              - generic [ref=e171]: Node.js
+              - generic [ref=e172]: Python
+              - generic [ref=e173]: Bash
+            - link "Get early access updates" [ref=e175] [cursor=pointer]:
+              - /url: "#contact"
+      - text:   
+    - generic [ref=e177]:
+      - generic [ref=e178]:
+        - paragraph [ref=e179]: 03 · Learn with me
+        - heading "Content & Insights" [level=2] [ref=e180]
+        - paragraph [ref=e181]: Practical insights on testing, automation, and AI in quality engineering — plus free interactive tools I built for the QE community.
+      - generic [ref=e182]:
+        - link [ref=e183] [cursor=pointer]:
+          - /url: /practice-lab
+          - generic [aria-hidden] [ref=e185]: 
+          - heading "QE Interview Practice Lab" [level=4] [ref=e186]
+          - paragraph [ref=e187]: 168 problems across 23 categories for Staff & Principal interview prep — system design, strategy, coding, and leadership scenarios.
+          - generic [ref=e188]:
+            - text: Start practising
+            - generic [aria-hidden] [ref=e189]: 
+        - link [ref=e190] [cursor=pointer]:
+          - /url: /resume-tailor
+          - generic [aria-hidden] [ref=e192]: 
+          - heading "Resume Tailoring Tool" [level=4] [ref=e193]
+          - paragraph [ref=e194]: Paste a job description and your resume to get a fit score, gap analysis, and an AI prompt that tailors your story to the role.
+          - generic [ref=e195]:
+            - text: Tailor your resume
+            - generic [aria-hidden] [ref=e196]: 
+      - generic [ref=e197]:
+        - generic [ref=e198]:
+          - generic [ref=e199]:
+            - heading "YouTube — Start Here" [level=3] [ref=e200]:
+              - generic [aria-hidden] [ref=e201]: 
+              - text: YouTube — Start Here
+            - paragraph [ref=e202]: I publish practical videos focusing on real workflows QEs can use at work, from building robust frameworks to leveraging AI tools effectively.
+          - link "Visit my channel" [ref=e203] [cursor=pointer]:
+            - /url: https://youtube.com/@JagadeeshJayachandran
+            - text: Visit my channel
+            - generic [aria-hidden] [ref=e204]: 
+        - generic [ref=e205]:
+          - generic [ref=e206]:
+            - generic [ref=e207]:
+              - img "Playwright Masterclass Part 3 video thumbnail" [ref=e208]
+              - generic [aria-hidden] [ref=e210]: 
+            - generic [ref=e211]:
+              - heading "Playwright Masterclass Part 3" [level=4] [ref=e212]
+              - paragraph [ref=e213]: The Golden Standard for Click, Fill, and Auto-Wait.
+              - link "Watch" [ref=e214] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=XsZcupsYU3c
+                - text: Watch
+                - generic [aria-hidden] [ref=e215]: 
+          - generic [ref=e216]:
+            - generic [ref=e217]:
+              - img "Playwright Locators Strategy Part 2 video thumbnail" [ref=e218]
+              - generic [aria-hidden] [ref=e220]: 
+            - generic [ref=e221]:
+              - heading "Playwright Locators Strategy - Part 2" [level=4] [ref=e222]
+              - paragraph [ref=e223]: SHOCKING Truth About XPath EXPOSED 80/20 Locator Strategy Works Better.
+              - link "Watch" [ref=e224] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=6IaCQ70cNVc
+                - text: Watch
+                - generic [aria-hidden] [ref=e225]: 
+          - generic [ref=e226]:
+            - generic [ref=e227]:
+              - img "80/20 Playwright Series Part 1 video thumbnail" [ref=e228]
+              - generic [aria-hidden] [ref=e230]: 
+            - generic [ref=e231]:
+              - heading "80/20 Playwright Series Part 1" [level=4] [ref=e232]
+              - paragraph [ref=e233]: Automate Any Workflow in 10 Mins with this Playwright Masterclass.
+              - link "Watch" [ref=e234] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=DRgQa9oagY4
+                - text: Watch
+                - generic [aria-hidden] [ref=e235]: 
+      - list [ref=e237]:
+        - listitem [ref=e238]:
+          - link "Read my written insights and articles on LinkedIn" [ref=e239] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/jagadeesh-jayachandran/recent-activity/articles/
+            - generic [aria-hidden] [ref=e241]: 
+    - generic [ref=e243]:
+      - generic [ref=e244]:
+        - paragraph [ref=e245]: 04 · Newsletter
+        - heading "The QE Shift" [level=2] [ref=e246]
+        - paragraph [ref=e247]: Biweekly insights for QA engineers moving into quality engineering leadership.
+      - generic [ref=e248]:
+        - generic [ref=e249]:
+          - generic [aria-hidden] [ref=e251]: 
+          - heading "Career Strategy" [level=3] [ref=e252]
+          - paragraph [ref=e253]: Practical frameworks for moving from senior SDET to QE Architect — without waiting for permission.
+        - generic [ref=e254]:
+          - generic [aria-hidden] [ref=e256]: 
+          - heading "Technical Leadership" [level=3] [ref=e257]
+          - paragraph [ref=e258]: How to influence architecture decisions, shape test strategy, and drive quality culture across teams.
+        - generic [ref=e259]:
+          - generic [aria-hidden] [ref=e261]: 
+          - heading "Industry Insights" [level=3] [ref=e262]
+          - paragraph [ref=e263]: Trends in AI testing, automation tooling, and quality engineering that matter for your next move.
+      - generic [ref=e265]:
+        - heading "Get every edition straight to your inbox" [level=3] [ref=e266]
+        - paragraph [ref=e267]: Join quality engineers who are making the shift from execution to influence.
+        - iframe [ref=e268]:
+          - generic [ref=f1e2]:
+            - generic [ref=f1e5]:
+              - generic [ref=f1e6]: The QE Shift
+              - generic [ref=f1e7]: For the QE who's done executing and ready to lead.
+            - generic [ref=f1e9]:
+              - textbox "Enter your email" [ref=f1e12]
+              - button "Subscribe" [ref=f1e13]
+        - paragraph [ref=e269]: No spam. Unsubscribe anytime.
+      - link "Read past editions on LinkedIn" [ref=e271] [cursor=pointer]:
+        - /url: https://www.linkedin.com/newsletters/the-qe-shift-7441232010968231936/
+        - generic [aria-hidden] [ref=e272]: 
+        - text: Read past editions on LinkedIn
+        - generic [aria-hidden] [ref=e273]: 
+    - generic [ref=e275]:
+      - generic [ref=e276]:
+        - paragraph [ref=e277]: 05 · Deep work, together
+        - heading "The Deep Shift" [level=2] [ref=e278]
+        - paragraph [ref=e279]: A daily deep work session for QEs doing the real work.
+      - paragraph [ref=e281]: Show up, declare your goal, and do 50 minutes of uninterrupted deep work alongside a focused group of quality engineers. No small talk. No distractions. Just the work.
+      - generic [ref=e282]:
+        - generic [ref=e283]:
+          - generic [aria-hidden] [ref=e285]: 
+          - heading "Declare Your Goal" [level=3] [ref=e286]
+          - paragraph [ref=e287]: State what you'll work on when you book and again when you join. Pre-commitment is the first step to follow-through.
+        - generic [ref=e288]:
+          - generic [aria-hidden] [ref=e290]: 
+          - heading "50 Mins Deep Work" [level=3] [ref=e291]
+          - paragraph [ref=e292]: Camera on, microphone muted. You work, everyone works. No interruptions, no multitasking, just focused execution.
+        - generic [ref=e293]:
+          - generic [aria-hidden] [ref=e295]: 
+          - heading "5 Min Wrap-Up" [level=3] [ref=e296]
+          - paragraph [ref=e297]: Share what you shipped. Celebrate progress, reflect on blockers, and leave with momentum for your next session.
+      - generic [ref=e298]:
+        - heading "Daily Sessions" [level=3] [ref=e299]
+        - generic [ref=e301]:
+          - generic [aria-hidden] [ref=e302]: 
+          - generic [ref=e303]:
+            - strong [ref=e304]: Every day
+            - text: — 07:00–08:00 London · 1 hour · Google Meet
+        - paragraph [ref=e305]: Times shown in your local timezone when you book.
+      - link "Book Your Spot" [ref=e307] [cursor=pointer]:
+        - /url: https://cal.com/jagadeesh-jayachandran-utzplx/thedeepshift
+        - generic [aria-hidden] [ref=e308]: 
+        - text: Book Your Spot
+      - generic [ref=e309]:
+        - heading "Related Reading" [level=3] [ref=e310]:
+          - generic [aria-hidden] [ref=e311]: 
+          - text: Related Reading
+        - 'link "Hidden Universities: 5-7 hours a week hiding in your daily routine" [ref=e312] [cursor=pointer]':
+          - /url: /hidden-universities
+          - generic [aria-hidden] [ref=e314]: 
+    - generic [ref=e316]:
+      - generic [ref=e317]:
+        - paragraph [ref=e318]: 06 · Decode the buzzwords
+        - heading "Industry Jargon" [level=2] [ref=e319]
+        - paragraph [ref=e320]: A quick-reference glossary of terms you'll hear in standups, strategy meetings, and tech talks.
+      - generic [ref=e321]:
+        - generic [ref=e322]:
+          - generic [aria-hidden]: 
+          - textbox "Search jargon terms" [ref=e323]:
+            - /placeholder: Search terms… e.g. Sprint, OKR, Pipeline
+        - group "Filter by category" [ref=e324]:
+          - button "All" [ref=e325] [cursor=pointer]
+          - button "Agile & Scrum" [ref=e326] [cursor=pointer]
+          - button "DevOps & CI/CD" [ref=e327] [cursor=pointer]
+          - button "Quality Engineering" [ref=e328] [cursor=pointer]
+          - button "AI & Data" [ref=e329] [cursor=pointer]
+          - button "Corporate & Business" [ref=e330] [cursor=pointer]
+          - button "Leadership & Culture" [ref=e331] [cursor=pointer]
+        - paragraph [ref=e332]: 93 of 93 terms
+      - generic [ref=e333]:
+        - button "Sprint — flip for definition" [ref=e334] [cursor=pointer]:
+          - generic [ref=e335]:
+            - generic [ref=e336]:
+              - generic [ref=e337]: Agile & Scrum
+              - heading "Sprint" [level=3] [ref=e338]
+              - generic [ref=e339]:
+                - generic [aria-hidden] [ref=e340]: 
+                - text: Click to flip
+            - generic [ref=e341]:
+              - generic [ref=e342]: Definition
+              - paragraph [ref=e343]: A fixed time period (usually 1–4 weeks) during which a dev team works on a set of tasks from the backlog to deliver a potentially shippable product increment.
+        - button "Standup — flip for definition" [ref=e344] [cursor=pointer]:
+          - generic [ref=e345]:
+            - generic [ref=e346]:
+              - generic [ref=e347]: Agile & Scrum
+              - heading "Standup" [level=3] [ref=e348]
+              - generic [ref=e349]:
+                - generic [aria-hidden] [ref=e350]: 
+                - text: Click to flip
+            - generic [ref=e351]:
+              - generic [ref=e352]: Definition
+              - paragraph [ref=e353]: A short daily meeting (usually 15 min) where each team member shares what they did yesterday, what they'll do today, and any blockers.
+        - button "Retrospective — flip for definition" [ref=e354] [cursor=pointer]:
+          - generic [ref=e355]:
+            - generic [ref=e356]:
+              - generic [ref=e357]: Agile & Scrum
+              - heading "Retrospective" [level=3] [ref=e358]
+              - generic [ref=e359]:
+                - generic [aria-hidden] [ref=e360]: 
+                - text: Click to flip
+            - generic [ref=e361]:
+              - generic [ref=e362]: Definition
+              - paragraph [ref=e363]: A meeting at the end of a sprint where the team reflects on what went well, what didn't, and how to improve in the next iteration.
+        - button "Backlog Grooming — flip for definition" [ref=e364] [cursor=pointer]:
+          - generic [ref=e365]:
+            - generic [ref=e366]:
+              - generic [ref=e367]: Agile & Scrum
+              - heading "Backlog Grooming" [level=3] [ref=e368]
+              - generic [ref=e369]:
+                - generic [aria-hidden] [ref=e370]: 
+                - text: Click to flip
+            - generic [ref=e371]:
+              - generic [ref=e372]: Definition
+              - paragraph [ref=e373]: The process of reviewing, refining, and prioritizing items in the product backlog so they're ready for upcoming sprints.
+        - button "Velocity — flip for definition" [ref=e374] [cursor=pointer]:
+          - generic [ref=e375]:
+            - generic [ref=e376]:
+              - generic [ref=e377]: Agile & Scrum
+              - heading "Velocity" [level=3] [ref=e378]
+              - generic [ref=e379]:
+                - generic [aria-hidden] [ref=e380]: 
+                - text: Click to flip
+            - generic [ref=e381]:
+              - generic [ref=e382]: Definition
+              - paragraph [ref=e383]: A measure of the amount of work a team can complete in a single sprint, usually in story points. Used for capacity planning.
+        - button "Epic — flip for definition" [ref=e384] [cursor=pointer]:
+          - generic [ref=e385]:
+            - generic [ref=e386]:
+              - generic [ref=e387]: Agile & Scrum
+              - heading "Epic" [level=3] [ref=e388]
+              - generic [ref=e389]:
+                - generic [aria-hidden] [ref=e390]: 
+                - text: Click to flip
+            - generic [ref=e391]:
+              - generic [ref=e392]: Definition
+              - paragraph [ref=e393]: A large body of work that can be broken down into smaller user stories. Epics often span multiple sprints or even quarters.
+        - button "User Story — flip for definition" [ref=e394] [cursor=pointer]:
+          - generic [ref=e395]:
+            - generic [ref=e396]:
+              - generic [ref=e397]: Agile & Scrum
+              - heading "User Story" [level=3] [ref=e398]
+              - generic [ref=e399]:
+                - generic [aria-hidden] [ref=e400]: 
+                - text: Click to flip
+            - generic [ref=e401]:
+              - generic [ref=e402]: Definition
+              - paragraph [ref=e403]: "A short, simple description of a feature from the perspective of the end user: 'As a [user], I want [goal] so that [benefit].'"
+        - button "CI/CD Pipeline — flip for definition" [ref=e404] [cursor=pointer]:
+          - generic [ref=e405]:
+            - generic [ref=e406]:
+              - generic [ref=e407]: DevOps & CI/CD
+              - heading "CI/CD Pipeline" [level=3] [ref=e408]
+              - generic [ref=e409]:
+                - generic [aria-hidden] [ref=e410]: 
+                - text: Click to flip
+            - generic [ref=e411]:
+              - generic [ref=e412]: Definition
+              - paragraph [ref=e413]: An automated workflow that builds, tests, and deploys code whenever changes are pushed. CI = Continuous Integration, CD = Continuous Delivery/Deployment.
+        - button "Containerization — flip for definition" [ref=e414] [cursor=pointer]:
+          - generic [ref=e415]:
+            - generic [ref=e416]:
+              - generic [ref=e417]: DevOps & CI/CD
+              - heading "Containerization" [level=3] [ref=e418]
+              - generic [ref=e419]:
+                - generic [aria-hidden] [ref=e420]: 
+                - text: Click to flip
+            - generic [ref=e421]:
+              - generic [ref=e422]: Definition
+              - paragraph [ref=e423]: Packaging an application and its dependencies into a portable 'container' (e.g., Docker) so it runs consistently across any environment.
+        - button "Blue-Green Deploy — flip for definition" [ref=e424] [cursor=pointer]:
+          - generic [ref=e425]:
+            - generic [ref=e426]:
+              - generic [ref=e427]: DevOps & CI/CD
+              - heading "Blue-Green Deploy" [level=3] [ref=e428]
+              - generic [ref=e429]:
+                - generic [aria-hidden] [ref=e430]: 
+                - text: Click to flip
+            - generic [ref=e431]:
+              - generic [ref=e432]: Definition
+              - paragraph [ref=e433]: A deployment strategy where two identical production environments exist. Traffic is switched from the old (blue) to the new (green) after verification.
+        - button "Canary Release — flip for definition" [ref=e434] [cursor=pointer]:
+          - generic [ref=e435]:
+            - generic [ref=e436]:
+              - generic [ref=e437]: DevOps & CI/CD
+              - heading "Canary Release" [level=3] [ref=e438]
+              - generic [ref=e439]:
+                - generic [aria-hidden] [ref=e440]: 
+                - text: Click to flip
+            - generic [ref=e441]:
+              - generic [ref=e442]: Definition
+              - paragraph [ref=e443]: Deploying a new version to a small subset of users first, monitoring for issues, and then gradually rolling out to everyone.
+        - button "Infrastructure as Code — flip for definition" [ref=e444] [cursor=pointer]:
+          - generic [ref=e445]:
+            - generic [ref=e446]:
+              - generic [ref=e447]: DevOps & CI/CD
+              - heading "Infrastructure as Code" [level=3] [ref=e448]
+              - generic [ref=e449]:
+                - generic [aria-hidden] [ref=e450]: 
+                - text: Click to flip
+            - generic [ref=e451]:
+              - generic [ref=e452]: Definition
+              - paragraph [ref=e453]: Managing and provisioning infrastructure (servers, networks, etc.) through code and version control rather than manual processes.
+        - button "Feature Flag — flip for definition" [ref=e454] [cursor=pointer]:
+          - generic [ref=e455]:
+            - generic [ref=e456]:
+              - generic [ref=e457]: DevOps & CI/CD
+              - heading "Feature Flag" [level=3] [ref=e458]
+              - generic [ref=e459]:
+                - generic [aria-hidden] [ref=e460]: 
+                - text: Click to flip
+            - generic [ref=e461]:
+              - generic [ref=e462]: Definition
+              - paragraph [ref=e463]: A toggle in code that lets you enable or disable a feature without deploying new code. Used for gradual rollouts and A/B testing.
+        - button "Observability — flip for definition" [ref=e464] [cursor=pointer]:
+          - generic [ref=e465]:
+            - generic [ref=e466]:
+              - generic [ref=e467]: DevOps & CI/CD
+              - heading "Observability" [level=3] [ref=e468]
+              - generic [ref=e469]:
+                - generic [aria-hidden] [ref=e470]: 
+                - text: Click to flip
+            - generic [ref=e471]:
+              - generic [ref=e472]: Definition
+              - paragraph [ref=e473]: The ability to measure a system's internal state by examining its outputs — typically through logs, metrics, and traces (the three pillars).
+        - button "Shift-Left Testing — flip for definition" [ref=e474] [cursor=pointer]:
+          - generic [ref=e475]:
+            - generic [ref=e476]:
+              - generic [ref=e477]: Quality Engineering
+              - heading "Shift-Left Testing" [level=3] [ref=e478]
+              - generic [ref=e479]:
+                - generic [aria-hidden] [ref=e480]: 
+                - text: Click to flip
+            - generic [ref=e481]:
+              - generic [ref=e482]: Definition
+              - paragraph [ref=e483]: Moving testing activities earlier in the development lifecycle — catching bugs during design and coding rather than after deployment.
+        - button "Flaky Test — flip for definition" [ref=e484] [cursor=pointer]:
+          - generic [ref=e485]:
+            - generic [ref=e486]:
+              - generic [ref=e487]: Quality Engineering
+              - heading "Flaky Test" [level=3] [ref=e488]
+              - generic [ref=e489]:
+                - generic [aria-hidden] [ref=e490]: 
+                - text: Click to flip
+            - generic [ref=e491]:
+              - generic [ref=e492]: Definition
+              - paragraph [ref=e493]: A test that produces inconsistent results (pass/fail) without any code changes. Usually caused by timing issues, shared state, or environment dependencies.
+        - button "Test Pyramid — flip for definition" [ref=e494] [cursor=pointer]:
+          - generic [ref=e495]:
+            - generic [ref=e496]:
+              - generic [ref=e497]: Quality Engineering
+              - heading "Test Pyramid" [level=3] [ref=e498]
+              - generic [ref=e499]:
+                - generic [aria-hidden] [ref=e500]: 
+                - text: Click to flip
+            - generic [ref=e501]:
+              - generic [ref=e502]: Definition
+              - paragraph [ref=e503]: A strategy recommending many unit tests (base), fewer integration tests (middle), and even fewer E2E/UI tests (top) for optimal speed and coverage.
+        - button "Regression Suite — flip for definition" [ref=e504] [cursor=pointer]:
+          - generic [ref=e505]:
+            - generic [ref=e506]:
+              - generic [ref=e507]: Quality Engineering
+              - heading "Regression Suite" [level=3] [ref=e508]
+              - generic [ref=e509]:
+                - generic [aria-hidden] [ref=e510]: 
+                - text: Click to flip
+            - generic [ref=e511]:
+              - generic [ref=e512]: Definition
+              - paragraph [ref=e513]: A collection of test cases run after every code change to ensure that existing features still work as expected.
+        - button "Page Object Model — flip for definition" [ref=e514] [cursor=pointer]:
+          - generic [ref=e515]:
+            - generic [ref=e516]:
+              - generic [ref=e517]: Quality Engineering
+              - heading "Page Object Model" [level=3] [ref=e518]
+              - generic [ref=e519]:
+                - generic [aria-hidden] [ref=e520]: 
+                - text: Click to flip
+            - generic [ref=e521]:
+              - generic [ref=e522]: Definition
+              - paragraph [ref=e523]: A design pattern for test automation where each web page is represented as a class, keeping test code clean and maintainable.
+        - button "Code Coverage — flip for definition" [ref=e524] [cursor=pointer]:
+          - generic [ref=e525]:
+            - generic [ref=e526]:
+              - generic [ref=e527]: Quality Engineering
+              - heading "Code Coverage" [level=3] [ref=e528]
+              - generic [ref=e529]:
+                - generic [aria-hidden] [ref=e530]: 
+                - text: Click to flip
+            - generic [ref=e531]:
+              - generic [ref=e532]: Definition
+              - paragraph [ref=e533]: A metric that measures what percentage of your source code is executed during testing. High coverage ≠ bug-free, but low coverage signals risk.
+        - button "Smoke Test — flip for definition" [ref=e534] [cursor=pointer]:
+          - generic [ref=e535]:
+            - generic [ref=e536]:
+              - generic [ref=e537]: Quality Engineering
+              - heading "Smoke Test" [level=3] [ref=e538]
+              - generic [ref=e539]:
+                - generic [aria-hidden] [ref=e540]: 
+                - text: Click to flip
+            - generic [ref=e541]:
+              - generic [ref=e542]: Definition
+              - paragraph [ref=e543]: A quick, shallow test run to verify the most critical features work after a new build or deployment — a 'sanity check' before deeper testing.
+        - button "LLM — flip for definition" [ref=e544] [cursor=pointer]:
+          - generic [ref=e545]:
+            - generic [ref=e546]:
+              - generic [ref=e547]: AI & Data
+              - heading "LLM" [level=3] [ref=e548]
+              - generic [ref=e549]:
+                - generic [aria-hidden] [ref=e550]: 
+                - text: Click to flip
+            - generic [ref=e551]:
+              - generic [ref=e552]: Definition
+              - paragraph [ref=e553]: Large Language Model — a deep learning model (like GPT, Gemini, Claude) trained on massive text datasets to understand and generate human language.
+        - button "Prompt Engineering — flip for definition" [ref=e554] [cursor=pointer]:
+          - generic [ref=e555]:
+            - generic [ref=e556]:
+              - generic [ref=e557]: AI & Data
+              - heading "Prompt Engineering" [level=3] [ref=e558]
+              - generic [ref=e559]:
+                - generic [aria-hidden] [ref=e560]: 
+                - text: Click to flip
+            - generic [ref=e561]:
+              - generic [ref=e562]: Definition
+              - paragraph [ref=e563]: The art of crafting inputs (prompts) to get the best output from an AI model — including instructions, context, examples, and constraints.
+        - button "RAG — flip for definition" [ref=e564] [cursor=pointer]:
+          - generic [ref=e565]:
+            - generic [ref=e566]:
+              - generic [ref=e567]: AI & Data
+              - heading "RAG" [level=3] [ref=e568]
+              - generic [ref=e569]:
+                - generic [aria-hidden] [ref=e570]: 
+                - text: Click to flip
+            - generic [ref=e571]:
+              - generic [ref=e572]: Definition
+              - paragraph [ref=e573]: Retrieval-Augmented Generation — a pattern where an AI model retrieves relevant documents from a knowledge base before generating a response, reducing hallucinations.
+        - button "Fine-tuning — flip for definition" [ref=e574] [cursor=pointer]:
+          - generic [ref=e575]:
+            - generic [ref=e576]:
+              - generic [ref=e577]: AI & Data
+              - heading "Fine-tuning" [level=3] [ref=e578]
+              - generic [ref=e579]:
+                - generic [aria-hidden] [ref=e580]: 
+                - text: Click to flip
+            - generic [ref=e581]:
+              - generic [ref=e582]: Definition
+              - paragraph [ref=e583]: Training a pre-trained AI model on a specific, smaller dataset to specialize its behavior for a particular domain or task.
+        - button "Hallucination — flip for definition" [ref=e584] [cursor=pointer]:
+          - generic [ref=e585]:
+            - generic [ref=e586]:
+              - generic [ref=e587]: AI & Data
+              - heading "Hallucination" [level=3] [ref=e588]
+              - generic [ref=e589]:
+                - generic [aria-hidden] [ref=e590]: 
+                - text: Click to flip
+            - generic [ref=e591]:
+              - generic [ref=e592]: Definition
+              - paragraph [ref=e593]: When an AI model generates plausible-sounding but factually incorrect or fabricated information with high confidence.
+        - button "Evals — flip for definition" [ref=e594] [cursor=pointer]:
+          - generic [ref=e595]:
+            - generic [ref=e596]:
+              - generic [ref=e597]: AI & Data
+              - heading "Evals" [level=3] [ref=e598]
+              - generic [ref=e599]:
+                - generic [aria-hidden] [ref=e600]: 
+                - text: Click to flip
+            - generic [ref=e601]:
+              - generic [ref=e602]: Definition
+              - paragraph [ref=e603]: Short for evaluations — tests that score how often an AI's answers are acceptable and follow the business rules, since a non-deterministic system is never right 100% of the time.
+              - link "Try it interactively" [ref=e604]:
+                - /url: /learn/evals/
+                - text: Try it interactively
+                - generic [aria-hidden] [ref=e605]: 
+        - button "Tokenization — flip for definition" [ref=e606] [cursor=pointer]:
+          - generic [ref=e607]:
+            - generic [ref=e608]:
+              - generic [ref=e609]: AI & Data
+              - heading "Tokenization" [level=3] [ref=e610]
+              - generic [ref=e611]:
+                - generic [aria-hidden] [ref=e612]: 
+                - text: Click to flip
+            - generic [ref=e613]:
+              - generic [ref=e614]: Definition
+              - paragraph [ref=e615]: The process of breaking text into smaller units (tokens) — words, subwords, or characters — that an AI model can process.
+        - button "OKR — flip for definition" [ref=e616] [cursor=pointer]:
+          - generic [ref=e617]:
+            - generic [ref=e618]:
+              - generic [ref=e619]: Corporate & Business
+              - heading "OKR" [level=3] [ref=e620]
+              - generic [ref=e621]:
+                - generic [aria-hidden] [ref=e622]: 
+                - text: Click to flip
+            - generic [ref=e623]:
+              - generic [ref=e624]: Definition
+              - paragraph [ref=e625]: Objectives and Key Results — a goal-setting framework where an Objective is the 'what' and Key Results are the measurable 'how' to track progress.
+        - button "KPI — flip for definition" [ref=e626] [cursor=pointer]:
+          - generic [ref=e627]:
+            - generic [ref=e628]:
+              - generic [ref=e629]: Corporate & Business
+              - heading "KPI" [level=3] [ref=e630]
+              - generic [ref=e631]:
+                - generic [aria-hidden] [ref=e632]: 
+                - text: Click to flip
+            - generic [ref=e633]:
+              - generic [ref=e634]: Definition
+              - paragraph [ref=e635]: Key Performance Indicator — a measurable value that demonstrates how effectively an individual, team, or company is achieving a business objective.
+        - button "Synergy — flip for definition" [ref=e636] [cursor=pointer]:
+          - generic [ref=e637]:
+            - generic [ref=e638]:
+              - generic [ref=e639]: Corporate & Business
+              - heading "Synergy" [level=3] [ref=e640]
+              - generic [ref=e641]:
+                - generic [aria-hidden] [ref=e642]: 
+                - text: Click to flip
+            - generic [ref=e643]:
+              - generic [ref=e644]: Definition
+              - paragraph [ref=e645]: The idea that combined efforts of teams or systems produce a greater result than the sum of their individual contributions. (Often overused.)
+        - button "Bandwidth — flip for definition" [ref=e646] [cursor=pointer]:
+          - generic [ref=e647]:
+            - generic [ref=e648]:
+              - generic [ref=e649]: Corporate & Business
+              - heading "Bandwidth" [level=3] [ref=e650]
+              - generic [ref=e651]:
+                - generic [aria-hidden] [ref=e652]: 
+                - text: Click to flip
+            - generic [ref=e653]:
+              - generic [ref=e654]: Definition
+              - paragraph [ref=e655]: "In corporate speak: the capacity or availability someone has to take on additional work. 'I don't have the bandwidth for that right now.'"
+        - button "Circle Back — flip for definition" [ref=e656] [cursor=pointer]:
+          - generic [ref=e657]:
+            - generic [ref=e658]:
+              - generic [ref=e659]: Corporate & Business
+              - heading "Circle Back" [level=3] [ref=e660]
+              - generic [ref=e661]:
+                - generic [aria-hidden] [ref=e662]: 
+                - text: Click to flip
+            - generic [ref=e663]:
+              - generic [ref=e664]: Definition
+              - paragraph [ref=e665]: To revisit a topic or follow up on a discussion at a later time. 'Let's circle back on this after the quarterly review.'
+        - button "Low-Hanging Fruit — flip for definition" [ref=e666] [cursor=pointer]:
+          - generic [ref=e667]:
+            - generic [ref=e668]:
+              - generic [ref=e669]: Corporate & Business
+              - heading "Low-Hanging Fruit" [level=3] [ref=e670]
+              - generic [ref=e671]:
+                - generic [aria-hidden] [ref=e672]: 
+                - text: Click to flip
+            - generic [ref=e673]:
+              - generic [ref=e674]: Definition
+              - paragraph [ref=e675]: Easy wins or tasks that can be accomplished quickly with minimal effort, often prioritized for fast impact.
+        - button "Stakeholder — flip for definition" [ref=e676] [cursor=pointer]:
+          - generic [ref=e677]:
+            - generic [ref=e678]:
+              - generic [ref=e679]: Corporate & Business
+              - heading "Stakeholder" [level=3] [ref=e680]
+              - generic [ref=e681]:
+                - generic [aria-hidden] [ref=e682]: 
+                - text: Click to flip
+            - generic [ref=e683]:
+              - generic [ref=e684]: Definition
+              - paragraph [ref=e685]: Any person or group with an interest in or influence over a project's outcome — including managers, clients, users, and investors.
+        - button "Tiger Team — flip for definition" [ref=e686] [cursor=pointer]:
+          - generic [ref=e687]:
+            - generic [ref=e688]:
+              - generic [ref=e689]: Corporate & Business
+              - heading "Tiger Team" [level=3] [ref=e690]
+              - generic [ref=e691]:
+                - generic [aria-hidden] [ref=e692]: 
+                - text: Click to flip
+            - generic [ref=e693]:
+              - generic [ref=e694]: Definition
+              - paragraph [ref=e695]: A small, cross-functional group assembled to tackle a specific, urgent problem with a tight deadline.
+        - button "ROI — flip for definition" [ref=e696] [cursor=pointer]:
+          - generic [ref=e697]:
+            - generic [ref=e698]:
+              - generic [ref=e699]: Corporate & Business
+              - heading "ROI" [level=3] [ref=e700]
+              - generic [ref=e701]:
+                - generic [aria-hidden] [ref=e702]: 
+                - text: Click to flip
+            - generic [ref=e703]:
+              - generic [ref=e704]: Definition
+              - paragraph [ref=e705]: Return on Investment — a ratio comparing the gain or loss from an investment relative to its cost. Used to justify spending on projects or tools.
+        - button "MVP — flip for definition" [ref=e706] [cursor=pointer]:
+          - generic [ref=e707]:
+            - generic [ref=e708]:
+              - generic [ref=e709]: Corporate & Business
+              - heading "MVP" [level=3] [ref=e710]
+              - generic [ref=e711]:
+                - generic [aria-hidden] [ref=e712]: 
+                - text: Click to flip
+            - generic [ref=e713]:
+              - generic [ref=e714]: Definition
+              - paragraph [ref=e715]: Minimum Viable Product — the simplest version of a product with just enough features to validate a hypothesis and gather user feedback.
+        - button "Technical Debt — flip for definition" [ref=e716] [cursor=pointer]:
+          - generic [ref=e717]:
+            - generic [ref=e718]:
+              - generic [ref=e719]: Corporate & Business
+              - heading "Technical Debt" [level=3] [ref=e720]
+              - generic [ref=e721]:
+                - generic [aria-hidden] [ref=e722]: 
+                - text: Click to flip
+            - generic [ref=e723]:
+              - generic [ref=e724]: Definition
+              - paragraph [ref=e725]: The implied cost of future rework caused by choosing a quick, easy solution now instead of a better approach that would take longer.
+        - button "North Star Metric — flip for definition" [ref=e726] [cursor=pointer]:
+          - generic [ref=e727]:
+            - generic [ref=e728]:
+              - generic [ref=e729]: Corporate & Business
+              - heading "North Star Metric" [level=3] [ref=e730]
+              - generic [ref=e731]:
+                - generic [aria-hidden] [ref=e732]: 
+                - text: Click to flip
+            - generic [ref=e733]:
+              - generic [ref=e734]: Definition
+              - paragraph [ref=e735]: A single key metric that best captures the core value your product delivers. Aligns all teams around one measurable goal.
+        - button "Dogfooding — flip for definition" [ref=e736] [cursor=pointer]:
+          - generic [ref=e737]:
+            - generic [ref=e738]:
+              - generic [ref=e739]: Corporate & Business
+              - heading "Dogfooding" [level=3] [ref=e740]
+              - generic [ref=e741]:
+                - generic [aria-hidden] [ref=e742]: 
+                - text: Click to flip
+            - generic [ref=e743]:
+              - generic [ref=e744]: Definition
+              - paragraph [ref=e745]: Using your own product internally before releasing it to customers. 'Eating your own dog food' to find bugs and experience pain points.
+        - button "Servant Leadership — flip for definition" [ref=e746] [cursor=pointer]:
+          - generic [ref=e747]:
+            - generic [ref=e748]:
+              - generic [ref=e749]: Leadership & Culture
+              - heading "Servant Leadership" [level=3] [ref=e750]
+              - generic [ref=e751]:
+                - generic [aria-hidden] [ref=e752]: 
+                - text: Click to flip
+            - generic [ref=e753]:
+              - generic [ref=e754]: Definition
+              - paragraph [ref=e755]: A leadership style where the leader's primary goal is to serve their team — removing blockers, providing resources, and empowering people to do their best work.
+        - button "Psychological Safety — flip for definition" [ref=e756] [cursor=pointer]:
+          - generic [ref=e757]:
+            - generic [ref=e758]:
+              - generic [ref=e759]: Leadership & Culture
+              - heading "Psychological Safety" [level=3] [ref=e760]
+              - generic [ref=e761]:
+                - generic [aria-hidden] [ref=e762]: 
+                - text: Click to flip
+            - generic [ref=e763]:
+              - generic [ref=e764]: Definition
+              - paragraph [ref=e765]: A team environment where members feel safe to take risks, speak up, and make mistakes without fear of punishment or humiliation.
+        - button "Blameless Postmortem — flip for definition" [ref=e766] [cursor=pointer]:
+          - generic [ref=e767]:
+            - generic [ref=e768]:
+              - generic [ref=e769]: Leadership & Culture
+              - heading "Blameless Postmortem" [level=3] [ref=e770]
+              - generic [ref=e771]:
+                - generic [aria-hidden] [ref=e772]: 
+                - text: Click to flip
+            - generic [ref=e773]:
+              - generic [ref=e774]: Definition
+              - paragraph [ref=e775]: A review after an incident that focuses on understanding what happened and how to prevent it — without blaming individuals.
+        - button "1:1 Meeting — flip for definition" [ref=e776] [cursor=pointer]:
+          - generic [ref=e777]:
+            - generic [ref=e778]:
+              - generic [ref=e779]: Leadership & Culture
+              - heading "1:1 Meeting" [level=3] [ref=e780]
+              - generic [ref=e781]:
+                - generic [aria-hidden] [ref=e782]: 
+                - text: Click to flip
+            - generic [ref=e783]:
+              - generic [ref=e784]: Definition
+              - paragraph [ref=e785]: A recurring private meeting between a manager and a direct report, used for feedback, career development, unblocking, and relationship building.
+        - button "Skip-Level — flip for definition" [ref=e786] [cursor=pointer]:
+          - generic [ref=e787]:
+            - generic [ref=e788]:
+              - generic [ref=e789]: Leadership & Culture
+              - heading "Skip-Level" [level=3] [ref=e790]
+              - generic [ref=e791]:
+                - generic [aria-hidden] [ref=e792]: 
+                - text: Click to flip
+            - generic [ref=e793]:
+              - generic [ref=e794]: Definition
+              - paragraph [ref=e795]: A meeting between an employee and their manager's manager, skipping one level of hierarchy to get broader perspective and build trust.
+        - button "Growth Mindset — flip for definition" [ref=e796] [cursor=pointer]:
+          - generic [ref=e797]:
+            - generic [ref=e798]:
+              - generic [ref=e799]: Leadership & Culture
+              - heading "Growth Mindset" [level=3] [ref=e800]
+              - generic [ref=e801]:
+                - generic [aria-hidden] [ref=e802]: 
+                - text: Click to flip
+            - generic [ref=e803]:
+              - generic [ref=e804]: Definition
+              - paragraph [ref=e805]: The belief that abilities and intelligence can be developed through dedication and hard work, as opposed to seeing talent as fixed.
+        - button "Radical Candor — flip for definition" [ref=e806] [cursor=pointer]:
+          - generic [ref=e807]:
+            - generic [ref=e808]:
+              - generic [ref=e809]: Leadership & Culture
+              - heading "Radical Candor" [level=3] [ref=e810]
+              - generic [ref=e811]:
+                - generic [aria-hidden] [ref=e812]: 
+                - text: Click to flip
+            - generic [ref=e813]:
+              - generic [ref=e814]: Definition
+              - paragraph [ref=e815]: A management philosophy of caring personally while challenging directly — giving honest, constructive feedback without being harsh or insincere.
+        - button "RACI Matrix — flip for definition" [ref=e816] [cursor=pointer]:
+          - generic [ref=e817]:
+            - generic [ref=e818]:
+              - generic [ref=e819]: Leadership & Culture
+              - heading "RACI Matrix" [level=3] [ref=e820]
+              - generic [ref=e821]:
+                - generic [aria-hidden] [ref=e822]: 
+                - text: Click to flip
+            - generic [ref=e823]:
+              - generic [ref=e824]: Definition
+              - paragraph [ref=e825]: "A chart that maps tasks to roles: Responsible (does the work), Accountable (owns the outcome), Consulted (gives input), Informed (kept in the loop)."
+        - button "Disagree and Commit — flip for definition" [ref=e826] [cursor=pointer]:
+          - generic [ref=e827]:
+            - generic [ref=e828]:
+              - generic [ref=e829]: Leadership & Culture
+              - heading "Disagree and Commit" [level=3] [ref=e830]
+              - generic [ref=e831]:
+                - generic [aria-hidden] [ref=e832]: 
+                - text: Click to flip
+            - generic [ref=e833]:
+              - generic [ref=e834]: Definition
+              - paragraph [ref=e835]: A principle where team members voice disagreements openly, but once a decision is made, everyone fully commits to executing it.
+        - button "War Room — flip for definition" [ref=e836] [cursor=pointer]:
+          - generic [ref=e837]:
+            - generic [ref=e838]:
+              - generic [ref=e839]: Leadership & Culture
+              - heading "War Room" [level=3] [ref=e840]
+              - generic [ref=e841]:
+                - generic [aria-hidden] [ref=e842]: 
+                - text: Click to flip
+            - generic [ref=e843]:
+              - generic [ref=e844]: Definition
+              - paragraph [ref=e845]: A dedicated space (physical or virtual) where a cross-functional team gathers to resolve a critical incident or meet an urgent deadline.
+        - button "Scope Creep — flip for definition" [ref=e846] [cursor=pointer]:
+          - generic [ref=e847]:
+            - generic [ref=e848]:
+              - generic [ref=e849]: Leadership & Culture
+              - heading "Scope Creep" [level=3] [ref=e850]
+              - generic [ref=e851]:
+                - generic [aria-hidden] [ref=e852]: 
+                - text: Click to flip
+            - generic [ref=e853]:
+              - generic [ref=e854]: Definition
+              - paragraph [ref=e855]: The gradual, uncontrolled expansion of a project's requirements beyond its original goals — often the silent killer of deadlines.
+        - button "Story Points — flip for definition" [ref=e856] [cursor=pointer]:
+          - generic [ref=e857]:
+            - generic [ref=e858]:
+              - generic [ref=e859]: Agile & Scrum
+              - heading "Story Points" [level=3] [ref=e860]
+              - generic [ref=e861]:
+                - generic [aria-hidden] [ref=e862]: 
+                - text: Click to flip
+            - generic [ref=e863]:
+              - generic [ref=e864]: Definition
+              - paragraph [ref=e865]: A unit of measure for estimating the relative effort or complexity of a user story. Not tied to hours — a 5-point story is roughly 2.5× harder than a 2-point story.
+        - button "Kanban — flip for definition" [ref=e866] [cursor=pointer]:
+          - generic [ref=e867]:
+            - generic [ref=e868]:
+              - generic [ref=e869]: Agile & Scrum
+              - heading "Kanban" [level=3] [ref=e870]
+              - generic [ref=e871]:
+                - generic [aria-hidden] [ref=e872]: 
+                - text: Click to flip
+            - generic [ref=e873]:
+              - generic [ref=e874]: Definition
+              - paragraph [ref=e875]: A visual workflow method using boards and cards to manage work-in-progress. Focuses on continuous delivery rather than fixed sprints.
+        - button "Burndown Chart — flip for definition" [ref=e876] [cursor=pointer]:
+          - generic [ref=e877]:
+            - generic [ref=e878]:
+              - generic [ref=e879]: Agile & Scrum
+              - heading "Burndown Chart" [level=3] [ref=e880]
+              - generic [ref=e881]:
+                - generic [aria-hidden] [ref=e882]: 
+                - text: Click to flip
+            - generic [ref=e883]:
+              - generic [ref=e884]: Definition
+              - paragraph [ref=e885]: A visual graph showing work remaining vs. time in a sprint. The ideal line slopes downward; deviations reveal risks early.
+        - button "Definition of Done — flip for definition" [ref=e886] [cursor=pointer]:
+          - generic [ref=e887]:
+            - generic [ref=e888]:
+              - generic [ref=e889]: Agile & Scrum
+              - heading "Definition of Done" [level=3] [ref=e890]
+              - generic [ref=e891]:
+                - generic [aria-hidden] [ref=e892]: 
+                - text: Click to flip
+            - generic [ref=e893]:
+              - generic [ref=e894]: Definition
+              - paragraph [ref=e895]: A shared checklist of criteria that must be met before a user story or task is considered complete — e.g., coded, tested, reviewed, deployed.
+        - button "Spike — flip for definition" [ref=e896] [cursor=pointer]:
+          - generic [ref=e897]:
+            - generic [ref=e898]:
+              - generic [ref=e899]: Agile & Scrum
+              - heading "Spike" [level=3] [ref=e900]
+              - generic [ref=e901]:
+                - generic [aria-hidden] [ref=e902]: 
+                - text: Click to flip
+            - generic [ref=e903]:
+              - generic [ref=e904]: Definition
+              - paragraph [ref=e905]: A time-boxed research task in Agile used to explore a technical question, reduce uncertainty, or prototype a solution before committing to full implementation.
+        - button "Kubernetes (K8s) — flip for definition" [ref=e906] [cursor=pointer]:
+          - generic [ref=e907]:
+            - generic [ref=e908]:
+              - generic [ref=e909]: DevOps & CI/CD
+              - heading "Kubernetes (K8s)" [level=3] [ref=e910]
+              - generic [ref=e911]:
+                - generic [aria-hidden] [ref=e912]: 
+                - text: Click to flip
+            - generic [ref=e913]:
+              - generic [ref=e914]: Definition
+              - paragraph [ref=e915]: An open-source platform for automating deployment, scaling, and management of containerized applications. The de facto standard for container orchestration.
+        - button "Microservices — flip for definition" [ref=e916] [cursor=pointer]:
+          - generic [ref=e917]:
+            - generic [ref=e918]:
+              - generic [ref=e919]: DevOps & CI/CD
+              - heading "Microservices" [level=3] [ref=e920]
+              - generic [ref=e921]:
+                - generic [aria-hidden] [ref=e922]: 
+                - text: Click to flip
+            - generic [ref=e923]:
+              - generic [ref=e924]: Definition
+              - paragraph [ref=e925]: An architecture where an application is built as a collection of small, independent services that communicate via APIs — the opposite of a monolith.
+        - button "SLA / SLO / SLI — flip for definition" [ref=e926] [cursor=pointer]:
+          - generic [ref=e927]:
+            - generic [ref=e928]:
+              - generic [ref=e929]: DevOps & CI/CD
+              - heading "SLA / SLO / SLI" [level=3] [ref=e930]
+              - generic [ref=e931]:
+                - generic [aria-hidden] [ref=e932]: 
+                - text: Click to flip
+            - generic [ref=e933]:
+              - generic [ref=e934]: Definition
+              - paragraph [ref=e935]: SLA = Service Level Agreement (contract), SLO = Service Level Objective (target), SLI = Service Level Indicator (measured metric). Together they define reliability goals.
+        - button "GitOps — flip for definition" [ref=e936] [cursor=pointer]:
+          - generic [ref=e937]:
+            - generic [ref=e938]:
+              - generic [ref=e939]: DevOps & CI/CD
+              - heading "GitOps" [level=3] [ref=e940]
+              - generic [ref=e941]:
+                - generic [aria-hidden] [ref=e942]: 
+                - text: Click to flip
+            - generic [ref=e943]:
+              - generic [ref=e944]: Definition
+              - paragraph [ref=e945]: An operational model where Git is the single source of truth for declarative infrastructure and application code. Changes are deployed via pull requests.
+        - button "Rollback — flip for definition" [ref=e946] [cursor=pointer]:
+          - generic [ref=e947]:
+            - generic [ref=e948]:
+              - generic [ref=e949]: DevOps & CI/CD
+              - heading "Rollback" [level=3] [ref=e950]
+              - generic [ref=e951]:
+                - generic [aria-hidden] [ref=e952]: 
+                - text: Click to flip
+            - generic [ref=e953]:
+              - generic [ref=e954]: Definition
+              - paragraph [ref=e955]: Reverting a production deployment to a previous known-good version when the new release introduces critical bugs or performance issues.
+        - button "Toil — flip for definition" [ref=e956] [cursor=pointer]:
+          - generic [ref=e957]:
+            - generic [ref=e958]:
+              - generic [ref=e959]: DevOps & CI/CD
+              - heading "Toil" [level=3] [ref=e960]
+              - generic [ref=e961]:
+                - generic [aria-hidden] [ref=e962]: 
+                - text: Click to flip
+            - generic [ref=e963]:
+              - generic [ref=e964]: Definition
+              - paragraph [ref=e965]: Manual, repetitive, automatable operational work that scales linearly with service growth. A key concept in Google's SRE practices — reduce toil to focus on engineering.
+        - button "Chaos Engineering — flip for definition" [ref=e966] [cursor=pointer]:
+          - generic [ref=e967]:
+            - generic [ref=e968]:
+              - generic [ref=e969]: Quality Engineering
+              - heading "Chaos Engineering" [level=3] [ref=e970]
+              - generic [ref=e971]:
+                - generic [aria-hidden] [ref=e972]: 
+                - text: Click to flip
+            - generic [ref=e973]:
+              - generic [ref=e974]: Definition
+              - paragraph [ref=e975]: The practice of intentionally injecting failures into a production system to test its resilience and discover weaknesses before real outages occur.
+        - button "Contract Testing — flip for definition" [ref=e976] [cursor=pointer]:
+          - generic [ref=e977]:
+            - generic [ref=e978]:
+              - generic [ref=e979]: Quality Engineering
+              - heading "Contract Testing" [level=3] [ref=e980]
+              - generic [ref=e981]:
+                - generic [aria-hidden] [ref=e982]: 
+                - text: Click to flip
+            - generic [ref=e983]:
+              - generic [ref=e984]: Definition
+              - paragraph [ref=e985]: Verifying that two services (consumer and provider) can communicate correctly by testing against a shared contract, without needing a full integration environment.
+        - button "Mutation Testing — flip for definition" [ref=e986] [cursor=pointer]:
+          - generic [ref=e987]:
+            - generic [ref=e988]:
+              - generic [ref=e989]: Quality Engineering
+              - heading "Mutation Testing" [level=3] [ref=e990]
+              - generic [ref=e991]:
+                - generic [aria-hidden] [ref=e992]: 
+                - text: Click to flip
+            - generic [ref=e993]:
+              - generic [ref=e994]: Definition
+              - paragraph [ref=e995]: Introducing small code changes (mutations) to see if your tests catch them. If a test still passes after a mutation, it's a weak test.
+        - button "Mocking & Stubbing — flip for definition" [ref=e996] [cursor=pointer]:
+          - generic [ref=e997]:
+            - generic [ref=e998]:
+              - generic [ref=e999]: Quality Engineering
+              - heading "Mocking & Stubbing" [level=3] [ref=e1000]
+              - generic [ref=e1001]:
+                - generic [aria-hidden] [ref=e1002]: 
+                - text: Click to flip
+            - generic [ref=e1003]:
+              - generic [ref=e1004]: Definition
+              - paragraph [ref=e1005]: Replacing real dependencies (APIs, databases) with fake implementations during tests. Mocks verify interactions; stubs return pre-defined responses.
+        - button "Test Harness — flip for definition" [ref=e1006] [cursor=pointer]:
+          - generic [ref=e1007]:
+            - generic [ref=e1008]:
+              - generic [ref=e1009]: Quality Engineering
+              - heading "Test Harness" [level=3] [ref=e1010]
+              - generic [ref=e1011]:
+                - generic [aria-hidden] [ref=e1012]: 
+                - text: Click to flip
+            - generic [ref=e1013]:
+              - generic [ref=e1014]: Definition
+              - paragraph [ref=e1015]: A framework or set of tools that automates running test cases, capturing results, and generating reports — the backbone infrastructure of test automation.
+        - button "Embeddings — flip for definition" [ref=e1016] [cursor=pointer]:
+          - generic [ref=e1017]:
+            - generic [ref=e1018]:
+              - generic [ref=e1019]: AI & Data
+              - heading "Embeddings" [level=3] [ref=e1020]
+              - generic [ref=e1021]:
+                - generic [aria-hidden] [ref=e1022]: 
+                - text: Click to flip
+            - generic [ref=e1023]:
+              - generic [ref=e1024]: Definition
+              - paragraph [ref=e1025]: Dense numerical vector representations of text, images, or data that capture semantic meaning. Similar concepts have similar embeddings — powering search and recommendations.
+        - button "Vector Database — flip for definition" [ref=e1026] [cursor=pointer]:
+          - generic [ref=e1027]:
+            - generic [ref=e1028]:
+              - generic [ref=e1029]: AI & Data
+              - heading "Vector Database" [level=3] [ref=e1030]
+              - generic [ref=e1031]:
+                - generic [aria-hidden] [ref=e1032]: 
+                - text: Click to flip
+            - generic [ref=e1033]:
+              - generic [ref=e1034]: Definition
+              - paragraph [ref=e1035]: A database optimized for storing and querying high-dimensional vectors (embeddings). Essential for semantic search, RAG, and recommendation systems.
+        - button "Agentic AI — flip for definition" [ref=e1036] [cursor=pointer]:
+          - generic [ref=e1037]:
+            - generic [ref=e1038]:
+              - generic [ref=e1039]: AI & Data
+              - heading "Agentic AI" [level=3] [ref=e1040]
+              - generic [ref=e1041]:
+                - generic [aria-hidden] [ref=e1042]: 
+                - text: Click to flip
+            - generic [ref=e1043]:
+              - generic [ref=e1044]: Definition
+              - paragraph [ref=e1045]: AI systems that can autonomously plan, use tools, make decisions, and take actions to accomplish complex goals — going beyond simple prompt-response patterns.
+        - button "Inference — flip for definition" [ref=e1046] [cursor=pointer]:
+          - generic [ref=e1047]:
+            - generic [ref=e1048]:
+              - generic [ref=e1049]: AI & Data
+              - heading "Inference" [level=3] [ref=e1050]
+              - generic [ref=e1051]:
+                - generic [aria-hidden] [ref=e1052]: 
+                - text: Click to flip
+            - generic [ref=e1053]:
+              - generic [ref=e1054]: Definition
+              - paragraph [ref=e1055]: The process of running a trained AI model on new data to generate predictions or outputs. Distinct from training, which is building the model.
+        - button "Guardrails — flip for definition" [ref=e1056] [cursor=pointer]:
+          - generic [ref=e1057]:
+            - generic [ref=e1058]:
+              - generic [ref=e1059]: AI & Data
+              - heading "Guardrails" [level=3] [ref=e1060]
+              - generic [ref=e1061]:
+                - generic [aria-hidden] [ref=e1062]: 
+                - text: Click to flip
+            - generic [ref=e1063]:
+              - generic [ref=e1064]: Definition
+              - paragraph [ref=e1065]: Safety mechanisms built around AI systems to prevent harmful, biased, or off-topic outputs — including content filters, validation rules, and human oversight.
+        - button "Shift-Right Testing — flip for definition" [ref=e1066] [cursor=pointer]:
+          - generic [ref=e1067]:
+            - generic [ref=e1068]:
+              - generic [ref=e1069]: Quality Engineering
+              - heading "Shift-Right Testing" [level=3] [ref=e1070]
+              - generic [ref=e1071]:
+                - generic [aria-hidden] [ref=e1072]: 
+                - text: Click to flip
+            - generic [ref=e1073]:
+              - generic [ref=e1074]: Definition
+              - paragraph [ref=e1075]: Testing in production using techniques like canary releases, synthetic monitoring, feature flags, and chaos drills — catching real-world issues that staging can't reproduce.
+        - button "Risk-Based Testing — flip for definition" [ref=e1076] [cursor=pointer]:
+          - generic [ref=e1077]:
+            - generic [ref=e1078]:
+              - generic [ref=e1079]: Quality Engineering
+              - heading "Risk-Based Testing" [level=3] [ref=e1080]
+              - generic [ref=e1081]:
+                - generic [aria-hidden] [ref=e1082]: 
+                - text: Click to flip
+            - generic [ref=e1083]:
+              - generic [ref=e1084]: Definition
+              - paragraph [ref=e1085]: Prioritizing test effort by impact × likelihood of failure rather than by feature list — focus the deepest coverage where a defect would hurt most.
+        - button "Test Trophy — flip for definition" [ref=e1086] [cursor=pointer]:
+          - generic [ref=e1087]:
+            - generic [ref=e1088]:
+              - generic [ref=e1089]: Quality Engineering
+              - heading "Test Trophy" [level=3] [ref=e1090]
+              - generic [ref=e1091]:
+                - generic [aria-hidden] [ref=e1092]: 
+                - text: Click to flip
+            - generic [ref=e1093]:
+              - generic [ref=e1094]: Definition
+              - paragraph [ref=e1095]: An alternative to the test pyramid (popularized by Kent C. Dodds) emphasizing integration tests as the largest layer, with static analysis as the base.
+        - button "Fuzzing — flip for definition" [ref=e1096] [cursor=pointer]:
+          - generic [ref=e1097]:
+            - generic [ref=e1098]:
+              - generic [ref=e1099]: Quality Engineering
+              - heading "Fuzzing" [level=3] [ref=e1100]
+              - generic [ref=e1101]:
+                - generic [aria-hidden] [ref=e1102]: 
+                - text: Click to flip
+            - generic [ref=e1103]:
+              - generic [ref=e1104]: Definition
+              - paragraph [ref=e1105]: Feeding randomized, malformed, or unexpected inputs into a system to surface crashes, memory errors, and edge-case bugs that example-based tests miss.
+        - button "Property-Based Testing — flip for definition" [ref=e1106] [cursor=pointer]:
+          - generic [ref=e1107]:
+            - generic [ref=e1108]:
+              - generic [ref=e1109]: Quality Engineering
+              - heading "Property-Based Testing" [level=3] [ref=e1110]
+              - generic [ref=e1111]:
+                - generic [aria-hidden] [ref=e1112]: 
+                - text: Click to flip
+            - generic [ref=e1113]:
+              - generic [ref=e1114]: Definition
+              - paragraph [ref=e1115]: Defining invariants (properties) that should always hold, then letting a framework generate hundreds of inputs to try to break them — opposite of example-based testing.
+        - button "Hermetic Test — flip for definition" [ref=e1116] [cursor=pointer]:
+          - generic [ref=e1117]:
+            - generic [ref=e1118]:
+              - generic [ref=e1119]: Quality Engineering
+              - heading "Hermetic Test" [level=3] [ref=e1120]
+              - generic [ref=e1121]:
+                - generic [aria-hidden] [ref=e1122]: 
+                - text: Click to flip
+            - generic [ref=e1123]:
+              - generic [ref=e1124]: Definition
+              - paragraph [ref=e1125]: A test with zero external dependencies — no network, no shared DB, no clock drift — making it fully reproducible across machines and CI runs.
+        - button "Data Masking — flip for definition" [ref=e1126] [cursor=pointer]:
+          - generic [ref=e1127]:
+            - generic [ref=e1128]:
+              - generic [ref=e1129]: Quality Engineering
+              - heading "Data Masking" [level=3] [ref=e1130]
+              - generic [ref=e1131]:
+                - generic [aria-hidden] [ref=e1132]: 
+                - text: Click to flip
+            - generic [ref=e1133]:
+              - generic [ref=e1134]: Definition
+              - paragraph [ref=e1135]: Obfuscating sensitive fields (PII, PHI, PCI) in test data so non-prod environments stay realistic without exposing real customer information.
+        - button "Ephemeral Environment — flip for definition" [ref=e1136] [cursor=pointer]:
+          - generic [ref=e1137]:
+            - generic [ref=e1138]:
+              - generic [ref=e1139]: Quality Engineering
+              - heading "Ephemeral Environment" [level=3] [ref=e1140]
+              - generic [ref=e1141]:
+                - generic [aria-hidden] [ref=e1142]: 
+                - text: Click to flip
+            - generic [ref=e1143]:
+              - generic [ref=e1144]: Definition
+              - paragraph [ref=e1145]: A short-lived environment spun up per pull request or test run, then torn down — gives every change its own isolated, prod-like sandbox.
+        - button "Three Amigos — flip for definition" [ref=e1146] [cursor=pointer]:
+          - generic [ref=e1147]:
+            - generic [ref=e1148]:
+              - generic [ref=e1149]: Quality Engineering
+              - heading "Three Amigos" [level=3] [ref=e1150]
+              - generic [ref=e1151]:
+                - generic [aria-hidden] [ref=e1152]: 
+                - text: Click to flip
+            - generic [ref=e1153]:
+              - generic [ref=e1154]: Definition
+              - paragraph [ref=e1155]: A pre-development conversation between PM (what), Dev (how), and QE (what could break) to refine a story before code is written — shifts quality left.
+        - button "Definition of Ready — flip for definition" [ref=e1156] [cursor=pointer]:
+          - generic [ref=e1157]:
+            - generic [ref=e1158]:
+              - generic [ref=e1159]: Quality Engineering
+              - heading "Definition of Ready" [level=3] [ref=e1160]
+              - generic [ref=e1161]:
+                - generic [aria-hidden] [ref=e1162]: 
+                - text: Click to flip
+            - generic [ref=e1163]:
+              - generic [ref=e1164]: Definition
+              - paragraph [ref=e1165]: The criteria a story must meet before a team commits to it in a sprint — clear AC, dependencies resolved, testable. The pre-condition counterpart to Definition of Done.
+        - button "Bug Bash — flip for definition" [ref=e1166] [cursor=pointer]:
+          - generic [ref=e1167]:
+            - generic [ref=e1168]:
+              - generic [ref=e1169]: Quality Engineering
+              - heading "Bug Bash" [level=3] [ref=e1170]
+              - generic [ref=e1171]:
+                - generic [aria-hidden] [ref=e1172]: 
+                - text: Click to flip
+            - generic [ref=e1173]:
+              - generic [ref=e1174]: Definition
+              - paragraph [ref=e1175]: A time-boxed group session where engineers, PMs, designers, and others stress-test a build looking for defects — high-throughput exploratory testing.
+        - button "Escaped Defect — flip for definition" [ref=e1176] [cursor=pointer]:
+          - generic [ref=e1177]:
+            - generic [ref=e1178]:
+              - generic [ref=e1179]: Quality Engineering
+              - heading "Escaped Defect" [level=3] [ref=e1180]
+              - generic [ref=e1181]:
+                - generic [aria-hidden] [ref=e1182]: 
+                - text: Click to flip
+            - generic [ref=e1183]:
+              - generic [ref=e1184]: Definition
+              - paragraph [ref=e1185]: A bug that reached production despite passing through QE — also tracked as 'leakage rate' (escaped defects ÷ total defects). A key signal of test-suite effectiveness.
+        - button "Game Day — flip for definition" [ref=e1186] [cursor=pointer]:
+          - generic [ref=e1187]:
+            - generic [ref=e1188]:
+              - generic [ref=e1189]: Quality Engineering
+              - heading "Game Day" [level=3] [ref=e1190]
+              - generic [ref=e1191]:
+                - generic [aria-hidden] [ref=e1192]: 
+                - text: Click to flip
+            - generic [ref=e1193]:
+              - generic [ref=e1194]: Definition
+              - paragraph [ref=e1195]: A planned exercise where a team intentionally injects a failure (region down, dependency timeout) to validate runbooks, alerts, and on-call response — chaos engineering as a drill.
+        - button "Dark Launch — flip for definition" [ref=e1196] [cursor=pointer]:
+          - generic [ref=e1197]:
+            - generic [ref=e1198]:
+              - generic [ref=e1199]: DevOps & CI/CD
+              - heading "Dark Launch" [level=3] [ref=e1200]
+              - generic [ref=e1201]:
+                - generic [aria-hidden] [ref=e1202]: 
+                - text: Click to flip
+            - generic [ref=e1203]:
+              - generic [ref=e1204]: Definition
+              - paragraph [ref=e1205]: Shipping new code to production but keeping it invisible to users — runs silently behind a flag so you can validate performance and correctness with real traffic.
+        - button "Kill Switch — flip for definition" [ref=e1206] [cursor=pointer]:
+          - generic [ref=e1207]:
+            - generic [ref=e1208]:
+              - generic [ref=e1209]: DevOps & CI/CD
+              - heading "Kill Switch" [level=3] [ref=e1210]
+              - generic [ref=e1211]:
+                - generic [aria-hidden] [ref=e1212]: 
+                - text: Click to flip
+            - generic [ref=e1213]:
+              - generic [ref=e1214]: Definition
+              - paragraph [ref=e1215]: A feature flag whose only job is to instantly disable a feature or path in production when something goes wrong — your fastest mitigation lever before a rollback.
+        - button "Roll-Forward — flip for definition" [ref=e1216] [cursor=pointer]:
+          - generic [ref=e1217]:
+            - generic [ref=e1218]:
+              - generic [ref=e1219]: DevOps & CI/CD
+              - heading "Roll-Forward" [level=3] [ref=e1220]
+              - generic [ref=e1221]:
+                - generic [aria-hidden] [ref=e1222]: 
+                - text: Click to flip
+            - generic [ref=e1223]:
+              - generic [ref=e1224]: Definition
+              - paragraph [ref=e1225]: Fixing a broken release by deploying a new version forward instead of reverting — preferred when rollback would lose data or break schema/migration ordering.
+        - button "DORA Metrics — flip for definition" [ref=e1226] [cursor=pointer]:
+          - generic [ref=e1227]:
+            - generic [ref=e1228]:
+              - generic [ref=e1229]: DevOps & CI/CD
+              - heading "DORA Metrics" [level=3] [ref=e1230]
+              - generic [ref=e1231]:
+                - generic [aria-hidden] [ref=e1232]: 
+                - text: Click to flip
+            - generic [ref=e1233]:
+              - generic [ref=e1234]: Definition
+              - paragraph [ref=e1235]: "Four research-backed delivery metrics: deployment frequency, lead time for changes, change failure rate, and mean time to restore (MTTR). The industry yardstick for engineering throughput and stability."
+        - button "Synthetic Monitoring — flip for definition" [ref=e1236] [cursor=pointer]:
+          - generic [ref=e1237]:
+            - generic [ref=e1238]:
+              - generic [ref=e1239]: DevOps & CI/CD
+              - heading "Synthetic Monitoring" [level=3] [ref=e1240]
+              - generic [ref=e1241]:
+                - generic [aria-hidden] [ref=e1242]: 
+                - text: Click to flip
+            - generic [ref=e1243]:
+              - generic [ref=e1244]: Definition
+              - paragraph [ref=e1245]: Scripted, scheduled probes that hit production endpoints from outside to verify availability, latency, and key user journeys — catches outages before real users do.
+        - button "Red-Teaming — flip for definition" [ref=e1246] [cursor=pointer]:
+          - generic [ref=e1247]:
+            - generic [ref=e1248]:
+              - generic [ref=e1249]: AI & Data
+              - heading "Red-Teaming" [level=3] [ref=e1250]
+              - generic [ref=e1251]:
+                - generic [aria-hidden] [ref=e1252]: 
+                - text: Click to flip
+            - generic [ref=e1253]:
+              - generic [ref=e1254]: Definition
+              - paragraph [ref=e1255]: Adversarially probing an AI system with jailbreaks, prompt injections, and harmful prompts to surface safety, security, and policy failures before users find them.
+        - button "Citation Rate — flip for definition" [ref=e1256] [cursor=pointer]:
+          - generic [ref=e1257]:
+            - generic [ref=e1258]:
+              - generic [ref=e1259]: AI & Data
+              - heading "Citation Rate" [level=3] [ref=e1260]
+              - generic [ref=e1261]:
+                - generic [aria-hidden] [ref=e1262]: 
+                - text: Click to flip
+            - generic [ref=e1263]:
+              - generic [ref=e1264]: Definition
+              - paragraph [ref=e1265]: "For grounded/RAG systems: the percentage of generated claims that are backed by a retrievable source — a key quality metric alongside hallucination rate."
+      - text: 
+    - generic [ref=e1267]:
+      - generic [ref=e1268]:
+        - paragraph [ref=e1269]: 07 · Pick the right model
+        - heading "AI Model Guide" [level=2] [ref=e1270]
+        - paragraph [ref=e1271]: Which model to use for what? Curated recommendations to help you pick the right AI for every workflow.
+        - generic [ref=e1272]: "✦ Updated: July 2026"
+      - group "Filter by workflow" [ref=e1274]:
+        - button "All Workflows" [ref=e1275] [cursor=pointer]
+        - button " Coding" [ref=e1276] [cursor=pointer]:
+          - generic [ref=e1277]: 
+          - text: Coding
+        - button " Research" [ref=e1278] [cursor=pointer]:
+          - generic [ref=e1279]: 
+          - text: Research
+        - button " Brainstorming" [ref=e1280] [cursor=pointer]:
+          - generic [ref=e1281]: 
+          - text: Brainstorming
+        - button " PRD Writing" [ref=e1282] [cursor=pointer]:
+          - generic [ref=e1283]: 
+          - text: PRD Writing
+        - button " Content Writing" [ref=e1284] [cursor=pointer]:
+          - generic [ref=e1285]: 
+          - text: Content Writing
+        - button " Agentic Tasks" [ref=e1286] [cursor=pointer]:
+          - generic [ref=e1287]: 
+          - text: Agentic Tasks
+        - button " Data Analysis" [ref=e1288] [cursor=pointer]:
+          - generic [ref=e1289]: 
+          - text: Data Analysis
+        - button " Multimodal" [ref=e1290] [cursor=pointer]:
+          - generic [ref=e1291]: 
+          - text: Multimodal
+      - generic [ref=e1292]:
+        - generic [ref=e1293]:
+          - generic [ref=e1294]:
+            - generic [ref=e1295]: 
+            - heading "Coding" [level=3] [ref=e1296]
+          - paragraph [ref=e1297]: Writing, debugging, reviewing, and refactoring code
+          - generic [ref=e1298]:
+            - generic [ref=e1299]:
+              - generic [ref=e1300]: 🥇
+              - generic [ref=e1301]:
+                - generic [ref=e1302]:
+                  - generic [ref=e1303]: Claude Sonnet 4.6
+                  - generic [ref=e1304]: Anthropic
+                - paragraph [ref=e1305]: Best-in-class agentic coding with 1M token context. Autonomously resolves real GitHub issues, handles large multi-file codebases, and powers Claude Code end-to-end.
+            - generic [ref=e1306]:
+              - generic [ref=e1307]: 🥈
+              - generic [ref=e1308]:
+                - generic [ref=e1309]:
+                  - generic [ref=e1310]: o3
+                  - generic [ref=e1311]: OpenAI
+                - paragraph [ref=e1312]: OpenAI's strongest reasoning model. Excels at hard algorithmic problems, architecture decisions, and debugging complex multi-step logic where chain-of-thought matters.
+            - generic [ref=e1313]:
+              - generic [ref=e1314]: 🥉
+              - generic [ref=e1315]:
+                - generic [ref=e1316]:
+                  - generic [ref=e1317]: Gemini 2.5 Pro
+                  - generic [ref=e1318]: Google
+                - paragraph [ref=e1319]: Processes entire repositories in a single prompt with its 1M token window. Excellent at large-scale refactors and understanding sprawling legacy codebases.
+            - generic [ref=e1320]:
+              - generic [ref=e1321]: ⭐
+              - generic [ref=e1322]:
+                - generic [ref=e1323]:
+                  - generic [ref=e1324]: DeepSeek V3
+                  - generic [ref=e1325]: DeepSeek
+                - paragraph [ref=e1326]: Competitive coding performance at a fraction of API cost. Great for self-hosting or budget-conscious teams running high-volume code generation pipelines.
+        - generic [ref=e1327]:
+          - generic [ref=e1328]:
+            - generic [ref=e1329]: 
+            - heading "Research" [level=3] [ref=e1330]
+          - paragraph [ref=e1331]: Literature review, deep analysis, fact-checking, and synthesis
+          - generic [ref=e1332]:
+            - generic [ref=e1333]:
+              - generic [ref=e1334]: 🥇
+              - generic [ref=e1335]:
+                - generic [ref=e1336]:
+                  - generic [ref=e1337]: Gemini 2.5 Pro
+                  - generic [ref=e1338]: Google
+                - paragraph [ref=e1339]: Best for multimodal research. Natively processes text, images, PDFs, and video — plus Deep Research mode with Google Search grounding for real-time accuracy.
+            - generic [ref=e1340]:
+              - generic [ref=e1341]: 🥈
+              - generic [ref=e1342]:
+                - generic [ref=e1343]:
+                  - generic [ref=e1344]: Claude Opus 4.7
+                  - generic [ref=e1345]: Anthropic
+                - paragraph [ref=e1346]: Lowest hallucination rate of any frontier model. Ideal for accuracy-critical, compliance-heavy, and academic research where errors carry real consequences.
+            - generic [ref=e1347]:
+              - generic [ref=e1348]: 🥉
+              - generic [ref=e1349]:
+                - generic [ref=e1350]:
+                  - generic [ref=e1351]: Sonar Pro
+                  - generic [ref=e1352]: Perplexity
+                - paragraph [ref=e1353]: Purpose-built for long-form research synthesis with real-time web access and cited sources. Best for staying current on fast-moving topics and market intelligence.
+            - generic [ref=e1354]:
+              - generic [ref=e1355]: ⭐
+              - generic [ref=e1356]:
+                - generic [ref=e1357]:
+                  - generic [ref=e1358]: o3
+                  - generic [ref=e1359]: OpenAI
+                - paragraph [ref=e1360]: Deep reasoning variant from OpenAI. Excels at multi-step analysis and synthesising conflicting sources — pairs well with web search tools for grounded output.
+        - generic [ref=e1361]:
+          - generic [ref=e1362]:
+            - generic [ref=e1363]: 
+            - heading "Brainstorming" [level=3] [ref=e1364]
+          - paragraph [ref=e1365]: Ideation, creative thinking, exploring new perspectives
+          - generic [ref=e1366]:
+            - generic [ref=e1367]:
+              - generic [ref=e1368]: 🥇
+              - generic [ref=e1369]:
+                - generic [ref=e1370]:
+                  - generic [ref=e1371]: Claude Sonnet 4.6
+                  - generic [ref=e1372]: Anthropic
+                - paragraph [ref=e1373]: Most nuanced and creative responses of any frontier model. Explores unconventional angles and avoids generic output — ideal for breaking out of idea ruts.
+            - generic [ref=e1374]:
+              - generic [ref=e1375]: 🥈
+              - generic [ref=e1376]:
+                - generic [ref=e1377]:
+                  - generic [ref=e1378]: GPT-4o
+                  - generic [ref=e1379]: OpenAI
+                - paragraph [ref=e1380]: Versatile across domains with strong context retention across long sessions. Custom GPTs let you tailor the brainstorming persona to your specific workflow.
+            - generic [ref=e1381]:
+              - generic [ref=e1382]: 🥉
+              - generic [ref=e1383]:
+                - generic [ref=e1384]:
+                  - generic [ref=e1385]: Gemini 2.5 Pro
+                  - generic [ref=e1386]: Google
+                - paragraph [ref=e1387]: Multimodal brainstorming — feed it images, sketches, slides, or docs alongside prompts to generate richer, more grounded ideas from existing material.
+        - generic [ref=e1388]:
+          - generic [ref=e1389]:
+            - generic [ref=e1390]: 
+            - heading "PRD Writing" [level=3] [ref=e1391]
+          - paragraph [ref=e1392]: Product requirements, specs, user stories, and acceptance criteria
+          - generic [ref=e1393]:
+            - generic [ref=e1394]:
+              - generic [ref=e1395]: 🥇
+              - generic [ref=e1396]:
+                - generic [ref=e1397]:
+                  - generic [ref=e1398]: Claude Opus 4.7
+                  - generic [ref=e1399]: Anthropic
+                - paragraph [ref=e1400]: Best for structured, detailed technical docs. Follows complex templates precisely and produces enterprise-quality PRDs, specs, and acceptance criteria with minimal editing.
+            - generic [ref=e1401]:
+              - generic [ref=e1402]: 🥈
+              - generic [ref=e1403]:
+                - generic [ref=e1404]:
+                  - generic [ref=e1405]: GPT-4o
+                  - generic [ref=e1406]: OpenAI
+                - paragraph [ref=e1407]: Excellent at generating user stories, edge cases, and BDD scenarios from high-level feature descriptions. Strong at structured output and JSON schema adherence.
+            - generic [ref=e1408]:
+              - generic [ref=e1409]: 🥉
+              - generic [ref=e1410]:
+                - generic [ref=e1411]:
+                  - generic [ref=e1412]: Gemini 2.5 Pro
+                  - generic [ref=e1413]: Google
+                - paragraph [ref=e1414]: Ingests existing designs, meeting recordings, and competitor docs (multimodal) to draft comprehensive PRDs grounded in real project context.
+        - generic [ref=e1415]:
+          - generic [ref=e1416]:
+            - generic [ref=e1417]: 
+            - heading "Content Writing" [level=3] [ref=e1418]
+          - paragraph [ref=e1419]: Blog posts, marketing copy, documentation, and technical writing
+          - generic [ref=e1420]:
+            - generic [ref=e1421]:
+              - generic [ref=e1422]: 🥇
+              - generic [ref=e1423]:
+                - generic [ref=e1424]:
+                  - generic [ref=e1425]: Claude Sonnet 4.6
+                  - generic [ref=e1426]: Anthropic
+                - paragraph [ref=e1427]: Most human-like writing quality of any frontier model. Excels at matching tone and style, producing polished long-form content that doesn't read like AI.
+            - generic [ref=e1428]:
+              - generic [ref=e1429]: 🥈
+              - generic [ref=e1430]:
+                - generic [ref=e1431]:
+                  - generic [ref=e1432]: GPT-4o
+                  - generic [ref=e1433]: OpenAI
+                - paragraph [ref=e1434]: Versatile across formats — blogs, emails, social posts, ad copy. Strong at SEO-optimised content and adapting to brand voice guidelines at scale.
+            - generic [ref=e1435]:
+              - generic [ref=e1436]: 🥉
+              - generic [ref=e1437]:
+                - generic [ref=e1438]:
+                  - generic [ref=e1439]: Gemini 2.5 Pro
+                  - generic [ref=e1440]: Google
+                - paragraph [ref=e1441]: Deep Google Workspace integration. Drafts and edits directly in Docs, Slides, and Gmail — ideal for teams already living in the Google ecosystem.
+            - generic [ref=e1442]:
+              - generic [ref=e1443]: ⭐
+              - generic [ref=e1444]:
+                - generic [ref=e1445]:
+                  - generic [ref=e1446]: Mistral Large 2
+                  - generic [ref=e1447]: Mistral
+                - paragraph [ref=e1448]: Leading open-source model for multilingual writing. Cost-effective for high-volume content generation across European and Asian languages.
+        - generic [ref=e1449]:
+          - generic [ref=e1450]:
+            - generic [ref=e1451]: 
+            - heading "Agentic Tasks" [level=3] [ref=e1452]
+          - paragraph [ref=e1453]: Multi-step automation, tool use, and autonomous workflows
+          - generic [ref=e1454]:
+            - generic [ref=e1455]:
+              - generic [ref=e1456]: 🥇
+              - generic [ref=e1457]:
+                - generic [ref=e1458]:
+                  - generic [ref=e1459]: Claude Opus 4.7
+                  - generic [ref=e1460]: Anthropic
+                - paragraph [ref=e1461]: Industry leader for agentic work. Autonomously plans, executes tool calls, and self-corrects across complex multi-step workflows — powers Claude Code and Agent SDK.
+            - generic [ref=e1462]:
+              - generic [ref=e1463]: 🥈
+              - generic [ref=e1464]:
+                - generic [ref=e1465]:
+                  - generic [ref=e1466]: Gemini 2.5 Pro
+                  - generic [ref=e1467]: Google
+                - paragraph [ref=e1468]: Excellent at long-running agent chains requiring broad context. 1M token window handles complex task histories and multi-document state without losing coherence.
+            - generic [ref=e1469]:
+              - generic [ref=e1470]: 🥉
+              - generic [ref=e1471]:
+                - generic [ref=e1472]:
+                  - generic [ref=e1473]: o4-mini
+                  - generic [ref=e1474]: OpenAI
+                - paragraph [ref=e1475]: Fast, cost-efficient reasoning for agentic pipelines. Reliable function calling and structured output — great for high-volume automation loops where speed matters.
+        - generic [ref=e1476]:
+          - generic [ref=e1477]:
+            - generic [ref=e1478]: 
+            - heading "Data Analysis" [level=3] [ref=e1479]
+          - paragraph [ref=e1480]: Data interpretation, SQL generation, charts, and statistical analysis
+          - generic [ref=e1481]:
+            - generic [ref=e1482]:
+              - generic [ref=e1483]: 🥇
+              - generic [ref=e1484]:
+                - generic [ref=e1485]:
+                  - generic [ref=e1486]: GPT-4o
+                  - generic [ref=e1487]: OpenAI
+                - paragraph [ref=e1488]: Best-in-class code interpreter. Upload CSV/Excel, run Python, generate interactive charts, and get plain-English explanations — all in one conversation thread.
+            - generic [ref=e1489]:
+              - generic [ref=e1490]: 🥈
+              - generic [ref=e1491]:
+                - generic [ref=e1492]:
+                  - generic [ref=e1493]: Gemini 2.5 Pro
+                  - generic [ref=e1494]: Google
+                - paragraph [ref=e1495]: Native BigQuery and Google Sheets integration. Handles massive datasets and can query production data warehouses directly from the chat interface.
+            - generic [ref=e1496]:
+              - generic [ref=e1497]: 🥉
+              - generic [ref=e1498]:
+                - generic [ref=e1499]:
+                  - generic [ref=e1500]: Claude Sonnet 4.6
+                  - generic [ref=e1501]: Anthropic
+                - paragraph [ref=e1502]: Excellent at writing complex SQL, explaining statistical results in plain English, and turning raw numbers into clear, structured analysis narratives.
+        - generic [ref=e1503]:
+          - generic [ref=e1504]:
+            - generic [ref=e1505]: 
+            - heading "Multimodal" [level=3] [ref=e1506]
+          - paragraph [ref=e1507]: Image understanding, video analysis, audio processing, and visual tasks
+          - generic [ref=e1508]:
+            - generic [ref=e1509]:
+              - generic [ref=e1510]: 🥇
+              - generic [ref=e1511]:
+                - generic [ref=e1512]:
+                  - generic [ref=e1513]: Gemini 2.5 Pro
+                  - generic [ref=e1514]: Google
+                - paragraph [ref=e1515]: Industry-leading multimodal. Natively processes text, images, video, and audio in a single prompt — no separate pipelines or model switching required.
+            - generic [ref=e1516]:
+              - generic [ref=e1517]: 🥈
+              - generic [ref=e1518]:
+                - generic [ref=e1519]:
+                  - generic [ref=e1520]: GPT-4o
+                  - generic [ref=e1521]: OpenAI
+                - paragraph [ref=e1522]: Strong vision capabilities with DALL·E integration. Understands complex diagrams, UI screenshots, and handwritten notes with high accuracy and fast response.
+            - generic [ref=e1523]:
+              - generic [ref=e1524]: 🥉
+              - generic [ref=e1525]:
+                - generic [ref=e1526]:
+                  - generic [ref=e1527]: Claude Sonnet 4.6
+                  - generic [ref=e1528]: Anthropic
+                - paragraph [ref=e1529]: Excellent at extracting structured data from images, PDFs, and documents. Best when visual understanding needs to feed directly into downstream automation.
+            - generic [ref=e1530]:
+              - generic [ref=e1531]: ⭐
+              - generic [ref=e1532]:
+                - generic [ref=e1533]:
+                  - generic [ref=e1534]: Llama 4 Maverick
+                  - generic [ref=e1535]: Meta
+                - paragraph [ref=e1536]: Open-source multimodal (17B active params, 128 experts) that rivals GPT-4o on benchmarks. Best for self-hosted, privacy-sensitive visual workloads.
+      - text: 
+    - generic [ref=e1539]:
+      - generic [ref=e1540]:
+        - paragraph [ref=e1541]: 08 · Say hello
+        - heading "Get In Touch" [level=2] [ref=e1542]
+        - paragraph [ref=e1543]: If you’d like to discuss quality engineering, automation, AI in testing, or potential collaborations, reach out below. I'm always open to connecting with fellow engineering leaders and builders.
+        - generic [ref=e1544]:
+          - link "Connect on LinkedIn" [ref=e1545] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/jagadeesh-jayachandran/
+            - generic [aria-hidden] [ref=e1546]: 
+          - link "Subscribe on YouTube" [ref=e1548] [cursor=pointer]:
+            - /url: https://youtube.com/@JagadeeshJayachandran
+            - generic [aria-hidden] [ref=e1549]: 
+          - link "Follow on GitHub" [ref=e1551] [cursor=pointer]:
+            - /url: https://github.com/JagadeeshJayachandran
+            - generic [aria-hidden] [ref=e1552]: 
+          - link "j.jagadeesh.1989@gmail.com" [ref=e1554] [cursor=pointer]:
+            - /url: mailto:j.jagadeesh.1989@gmail.com
+            - generic [aria-hidden] [ref=e1555]: 
+        - link "Schedule a 1:1 Chat" [ref=e1558] [cursor=pointer]:
+          - /url: https://calendar.app.google/iJVNFyeHuAaxFiCh7
+          - generic [aria-hidden] [ref=e1559]: 
+          - text: Schedule a 1:1 Chat
+      - generic [ref=e1561]:
+        - generic [ref=e1562]:
+          - generic [ref=e1563]: Name
+          - textbox "Name" [ref=e1564]:
+            - /placeholder: John Doe
+        - generic [ref=e1565]:
+          - generic [ref=e1566]: Email
+          - textbox "Email" [ref=e1567]:
+            - /placeholder: john@example.com
+        - generic [ref=e1568]:
+          - generic [ref=e1569]:
+            - generic [ref=e1570]: Role
+            - textbox "Role" [ref=e1571]:
+              - /placeholder: Engineering Manager
+          - generic [ref=e1572]:
+            - generic [ref=e1573]: Company
+            - textbox "Company" [ref=e1574]:
+              - /placeholder: Acme Corp
+        - generic [ref=e1575]:
+          - generic [ref=e1576]: How can I help?
+          - textbox "How can I help?" [ref=e1577]:
+            - /placeholder: I'd love to discuss...
+        - button "Send Message" [ref=e1578] [cursor=pointer]:
+          - text: Send Message
+          - generic [aria-hidden] [ref=e1579]: 
+        - status [ref=e1580]
+  - contentinfo [ref=e1581]:
+    - generic [ref=e1582]:
+      - generic [ref=e1583]:
+        - generic [ref=e1584]:
+          - generic [ref=e1585]: ~/jagadeesh.dev
+          - paragraph [ref=e1586]: Helping teams ship higher‑quality software with smarter testing, automation, and AI.
+        - navigation "Explore" [ref=e1587]:
+          - heading "Explore" [level=4] [ref=e1588]
+          - list [ref=e1589]:
+            - listitem [ref=e1590]:
+              - link "Home" [ref=e1591] [cursor=pointer]:
+                - /url: "#home"
+            - listitem [ref=e1592]:
+              - link "About" [ref=e1593] [cursor=pointer]:
+                - /url: "#about"
+            - listitem [ref=e1594]:
+              - link "Work" [ref=e1595] [cursor=pointer]:
+                - /url: "#work"
+            - listitem [ref=e1596]:
+              - link "Content" [ref=e1597] [cursor=pointer]:
+                - /url: "#content"
+            - listitem [ref=e1598]:
+              - link "Contact" [ref=e1599] [cursor=pointer]:
+                - /url: "#contact"
+        - navigation "Resources" [ref=e1600]:
+          - heading "Resources" [level=4] [ref=e1601]
+          - list [ref=e1602]:
+            - listitem [ref=e1603]:
+              - link "Newsletter" [ref=e1604] [cursor=pointer]:
+                - /url: "#newsletter"
+            - listitem [ref=e1605]:
+              - link "Deep Shift" [ref=e1606] [cursor=pointer]:
+                - /url: "#deep-shift"
+            - listitem [ref=e1607]:
+              - link "Jargon" [ref=e1608] [cursor=pointer]:
+                - /url: "#jargon"
+            - listitem [ref=e1609]:
+              - link "AI Models" [ref=e1610] [cursor=pointer]:
+                - /url: "#ai-models"
+            - listitem [ref=e1611]:
+              - link "Practice Lab" [ref=e1612] [cursor=pointer]:
+                - /url: /practice-lab
+            - listitem [ref=e1613]:
+              - link "Resume Tailor" [ref=e1614] [cursor=pointer]:
+                - /url: /resume-tailor
+            - listitem [ref=e1615]:
+              - link "Cohort" [ref=e1616] [cursor=pointer]:
+                - /url: /cohort/
+            - listitem [ref=e1617]:
+              - link "Privacy" [ref=e1618] [cursor=pointer]:
+                - /url: /privacy/
+        - navigation "Connect" [ref=e1619]:
+          - heading "Connect" [level=4] [ref=e1620]
+          - list [ref=e1621]:
+            - listitem [ref=e1622]:
+              - link "LinkedIn" [ref=e1623] [cursor=pointer]:
+                - /url: https://www.linkedin.com/in/jagadeesh-jayachandran/
+            - listitem [ref=e1624]:
+              - link "YouTube" [ref=e1625] [cursor=pointer]:
+                - /url: https://youtube.com/@JagadeeshJayachandran
+            - listitem [ref=e1626]:
+              - link "GitHub" [ref=e1627] [cursor=pointer]:
+                - /url: https://github.com/JagadeeshJayachandran
+            - listitem [ref=e1628]:
+              - link "Email" [ref=e1629] [cursor=pointer]:
+                - /url: mailto:j.jagadeesh.1989@gmail.com
+      - generic [ref=e1630]:
+        - paragraph [ref=e1631]: © 2026 Jagadeesh Jayachandran. All rights reserved.
+        - paragraph [ref=e1632]:
+          - generic [aria-hidden] [ref=e1633]: 
+          - text: Vanilla HTML · CSS · JS — tested with Playwright

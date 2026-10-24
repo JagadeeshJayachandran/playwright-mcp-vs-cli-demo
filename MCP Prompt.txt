@@ -1,0 +1,28 @@
+
+Use the Playwright MCP to test https://jagadeeshjayachandran.dev
+HOME PAGE
+1. Open the home page and check the "Schedule a 1:1 chat" button is visible
+2. Click "Work" in the top navigation and check the "My Work" section is shown
+3. In My Work, click the "QE Projects" tab, then the "Prompts & Custom GPTs" tab,
+   and check the content changes each time
+4. In the prompt dropdown, select "Playwright Automation Framework Setup"
+   and check a prompt appears
+5. Click "Jargon" in the navigation, type "regression" in the search box,
+   and check that matching terms appear and the list gets shorter
+6. Click "AI Models" in the navigation, click the "Coding" filter,
+   then "Research", and check the list changes
+7. Click "Contact" and check the form shows Name, Email, Role, Company
+   and Message fields. Do NOT fill in or submit the form
+
+COHORT PAGE
+8. Click "Cohort" in the navigation and check the page title contains
+   "QE Architect Accelerator"
+9. Check these headings are visible: "Who this is for", "How it works",
+   "Results from the first cohort"
+10. Check a "Book a 20-minute call" button and a "Join the waitlist" button
+    are visible. Do NOT click either one or submit any form
+
+Report pass or fail for each step.
+
+
+

@@ -1,0 +1,7 @@
+Convert the journey you just ran into a Playwright test at
+tests/website.spec.ts.
+
+- Use getByRole/getByText locators, not element refs
+- Add expect() assertions for each check in the journey
+- Do NOT fill in or submit any form, or book anything
+- Run it with npx playwright test and fix it until it passes

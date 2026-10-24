@@ -1,0 +1,193 @@
+- generic [active] [ref=f9e1]:
+  - link "Skip to content" [ref=f9e2] [cursor=pointer]:
+    - /url: "#cohort-top"
+  - navigation "Main navigation" [ref=f9e3]:
+    - generic [ref=f9e4]:
+      - link "~/jagadeesh.dev" [ref=f9e5] [cursor=pointer]:
+        - /url: /
+      - text: 
+      - list [ref=f9e6]:
+        - listitem [ref=f9e7]:
+          - link "Home" [ref=f9e8] [cursor=pointer]:
+            - /url: /#home
+        - listitem [ref=f9e9]:
+          - link "About" [ref=f9e10] [cursor=pointer]:
+            - /url: /#about
+        - listitem [ref=f9e11]:
+          - link "Work" [ref=f9e12] [cursor=pointer]:
+            - /url: /#work
+        - listitem [ref=f9e13]:
+          - link "Content" [ref=f9e14] [cursor=pointer]:
+            - /url: /#content
+        - listitem [ref=f9e15]:
+          - link "Cohort" [ref=f9e16] [cursor=pointer]:
+            - /url: /cohort/
+        - listitem [ref=f9e17]:
+          - link "Newsletter" [ref=f9e18] [cursor=pointer]:
+            - /url: /#newsletter
+        - listitem [ref=f9e19]:
+          - link "Jargon" [ref=f9e20] [cursor=pointer]:
+            - /url: /#jargon
+        - listitem [ref=f9e21]:
+          - link "Contact" [ref=f9e22] [cursor=pointer]:
+            - /url: /#contact
+  - main [ref=f9e23]:
+    - generic [ref=f9e26]:
+      - paragraph [ref=f9e27]: The QE Architect Accelerator
+      - heading "I help QE and engineering leaders build authority in the AI quality era." [level=1] [ref=f9e28]
+      - paragraph [ref=f9e29]: The QE Architect Accelerator is an 8-week cohort for senior quality and engineering leaders who want to lead on AI evaluation, not react to it.
+      - generic [ref=f9e30]:
+        - link "Join the waitlist" [ref=f9e31] [cursor=pointer]:
+          - /url: "#waitlist"
+          - text: Join the waitlist
+          - generic [aria-hidden] [ref=f9e32]: 
+        - link "How it works" [ref=f9e33] [cursor=pointer]:
+          - /url: "#how-it-works"
+          - generic [aria-hidden] [ref=f9e34]: 
+          - text: How it works
+      - list [ref=f9e35]:
+        - listitem [ref=f9e36]:
+          - generic [aria-hidden] [ref=f9e37]: 
+          - text: 8 weeks
+        - listitem [ref=f9e38]:
+          - generic [aria-hidden] [ref=f9e39]: 
+          - text: 10 seats
+        - listitem [ref=f9e40]:
+          - generic [aria-hidden] [ref=f9e41]: 
+          - text: Starts January 2027
+    - generic [ref=f9e43]:
+      - generic [ref=f9e44]:
+        - paragraph [ref=f9e45]: 01 · Fit
+        - heading "Who this is for" [level=2] [ref=f9e46]
+      - generic [ref=f9e47]:
+        - article [ref=f9e48]:
+          - generic [ref=f9e49]:
+            - generic [aria-hidden] [ref=f9e51]: 
+            - generic [ref=f9e52]: "01"
+          - paragraph [ref=f9e53]: QE leads and managers moving toward Staff or Principal level
+        - article [ref=f9e54]:
+          - generic [ref=f9e55]:
+            - generic [aria-hidden] [ref=f9e57]: 
+            - generic [ref=f9e58]: "02"
+          - paragraph [ref=f9e59]: Engineering leaders who now own AI and LLM quality
+        - article [ref=f9e60]:
+          - generic [ref=f9e61]:
+            - generic [aria-hidden] [ref=f9e63]: 
+            - generic [ref=f9e64]: "03"
+          - paragraph [ref=f9e65]: Senior testers building AI evaluation capability from scratch
+    - generic [ref=f9e67]:
+      - generic [ref=f9e68]:
+        - paragraph [ref=f9e69]: 02 · Outcomes
+        - heading "What you'll walk away with" [level=2] [ref=f9e70]
+      - list [ref=f9e71]:
+        - listitem [ref=f9e72]:
+          - generic [aria-hidden] [ref=f9e73]: 
+          - generic [ref=f9e74]: A working AI evaluation approach you can apply to your own product
+        - listitem [ref=f9e75]:
+          - generic [aria-hidden] [ref=f9e76]: 
+          - generic [ref=f9e77]: A clear, evidenced case for your next level of progression
+        - listitem [ref=f9e78]:
+          - generic [aria-hidden] [ref=f9e79]: 
+          - generic [ref=f9e80]: A peer group of senior quality and engineering leaders
+    - generic [ref=f9e82]:
+      - generic [ref=f9e83]:
+        - paragraph [ref=f9e84]: 03 · Format
+        - heading "How it works" [level=2] [ref=f9e85]
+      - list [ref=f9e86]:
+        - listitem [ref=f9e87]:
+          - generic [aria-hidden] [ref=f9e88]: 
+          - generic [ref=f9e89]: 8 weeks, one live session per week
+        - listitem [ref=f9e90]:
+          - generic [aria-hidden] [ref=f9e91]: 
+          - generic [ref=f9e92]: Small cohort, 10 seats
+        - listitem [ref=f9e93]:
+          - generic [aria-hidden] [ref=f9e94]: 
+          - generic [ref=f9e95]: Practical work applied to your own product, not theory
+        - listitem [ref=f9e96]:
+          - generic [aria-hidden] [ref=f9e97]: 
+          - generic [ref=f9e98]: Recordings and materials if you miss a session
+    - generic [ref=f9e100]:
+      - generic [ref=f9e101]:
+        - paragraph [ref=f9e102]: 04 · Results
+        - heading "Results from the first cohort" [level=2] [ref=f9e103]
+        - paragraph [ref=f9e104]: The first cohort ran as a 12-week pilot with five senior quality engineers. Three finished with results worth showing. The January programme is the 8-week format described above.
+      - generic [ref=f9e105]:
+        - article [ref=f9e106]:
+          - generic [ref=f9e107]: £85,000
+          - heading "Moved into a Senior SDET role" [level=3] [ref=f9e108]
+          - paragraph [ref=f9e109]: Technically strong, but kept stalling at senior-level interviews. Finished the programme with the clarity and the practice needed to convert one.
+          - generic [ref=f9e110]: Senior quality engineer · UK
+        - article [ref=f9e111]:
+          - generic [ref=f9e112]: Up to 25%
+          - heading "Entered a promotion negotiation" [level=3] [ref=f9e113]
+          - paragraph [ref=f9e114]: Moved from executing assigned tasks to identifying organisation-level problems. Productionised a real test automation initiative and earned a personal thank-you from a vice president.
+          - generic [ref=f9e115]: Senior quality engineer
+        - article [ref=f9e116]:
+          - generic [ref=f9e117]: Go-to expert
+          - heading "Owned a niche outright" [level=3] [ref=f9e118]
+          - paragraph [ref=f9e119]: Built a Snowflake data-integrity initiative from scratch and became the organisation's recognised expert in that area.
+          - generic [ref=f9e120]: Senior quality engineer
+      - link "Book a 20-minute call" [ref=f9e122] [cursor=pointer]:
+        - /url: https://calendly.com/j-jagadeesh-1989/qe-leadership-strategy-session-free-beta
+        - text: Book a 20-minute call
+        - generic [aria-hidden] [ref=f9e123]: 
+    - generic [ref=f9e125]:
+      - generic [ref=f9e126]:
+        - paragraph [ref=f9e127]: 05 · Details
+        - heading "Details" [level=2] [ref=f9e128]
+      - generic [ref=f9e129]:
+        - generic [ref=f9e130]:
+          - generic [ref=f9e131]: January 2027
+          - generic [ref=f9e132]: Cohort starts
+        - generic [ref=f9e133]:
+          - generic [ref=f9e134]: 10 seats
+          - generic [ref=f9e135]: Seats only
+        - generic [ref=f9e136]:
+          - generic [ref=f9e137]: November 2026
+          - generic [ref=f9e138]: Applications open
+      - paragraph [ref=f9e139]:
+        - text: Not waiting until January? I work with a small number of people 1:1 between cohorts —
+        - link "book a call" [ref=f9e140] [cursor=pointer]:
+          - /url: https://calendly.com/j-jagadeesh-1989/qe-leadership-strategy-session-free-beta
+        - text: and we'll see if it's a fit.
+    - generic [ref=f9e142]:
+      - generic [ref=f9e143]:
+        - paragraph [ref=f9e144]: 06 · Next step
+        - heading "Book a call" [level=2] [ref=f9e145]
+      - generic [ref=f9e146]:
+        - link "Book a 20-minute call" [ref=f9e147] [cursor=pointer]:
+          - /url: https://calendly.com/j-jagadeesh-1989/qe-leadership-strategy-session-free-beta
+          - text: Book a 20-minute call
+          - generic [aria-hidden] [ref=f9e148]: 
+        - paragraph [ref=f9e149]: No pitch. We'll map where you are, where you want to be in the next 6–12 months, and what's blocking the jump. You'll leave with a concrete next step either way.
+      - generic [ref=f9e150]:
+        - heading "Not ready for a call?" [level=3] [ref=f9e151]
+        - paragraph [ref=f9e152]: Applications open in November 2026. Leave your email and I'll let you know the moment they do.
+        - generic [ref=f9e153]:
+          - paragraph [ref=f9e154]:
+            - generic [aria-hidden] [ref=f9e155]: 
+            - generic [ref=f9e156]: This is a paid programme. If you want the details now rather than in November, book a call.
+          - generic [ref=f9e157]:
+            - generic [ref=f9e158]: Email address
+            - textbox "Email address" [ref=f9e159]:
+              - /placeholder: you@example.com
+            - text: 
+          - button "Join the waitlist" [ref=f9e160] [cursor=pointer]:
+            - text: Join the waitlist
+            - generic [aria-hidden] [ref=f9e161]: 
+          - paragraph [ref=f9e162]: No spam. I'll only email about the cohort.
+        - text: 
+    - generic [ref=f9e164]:
+      - generic [ref=f9e165]:
+        - paragraph [ref=f9e166]: 07 · Who runs it
+        - heading "About me" [level=2] [ref=f9e167]
+      - paragraph [ref=f9e169]: 15 years in quality engineering, currently in financial services. I build and evaluate LLM systems in production.
+  - contentinfo [ref=f9e170]:
+    - generic [ref=f9e172]:
+      - paragraph [ref=f9e173]: © 2026 Jagadeesh Jayachandran. All rights reserved.
+      - paragraph [ref=f9e174]:
+        - link "Home" [ref=f9e175] [cursor=pointer]:
+          - /url: /
+        - text: ·
+        - link "Privacy" [ref=f9e176] [cursor=pointer]:
+          - /url: /privacy/

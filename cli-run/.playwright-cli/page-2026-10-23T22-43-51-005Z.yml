@@ -1,0 +1,548 @@
+- generic [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#home"
+  - navigation "Main navigation" [ref=e3]:
+    - generic [ref=e4]:
+      - link "~/jagadeesh.dev" [ref=e5] [cursor=pointer]:
+        - /url: "#home"
+      - text: 
+      - list [ref=e6]:
+        - listitem [ref=e7]:
+          - link "Home" [ref=e8] [cursor=pointer]:
+            - /url: "#home"
+        - listitem [ref=e9]:
+          - link "About" [ref=e10] [cursor=pointer]:
+            - /url: "#about"
+        - listitem [ref=e11]:
+          - link "Work" [ref=e12] [cursor=pointer]:
+            - /url: "#work"
+        - listitem [ref=e13]:
+          - link "Content" [ref=e14] [cursor=pointer]:
+            - /url: "#content"
+        - listitem [ref=e15]:
+          - link "Cohort" [ref=e16] [cursor=pointer]:
+            - /url: /cohort/
+        - listitem [ref=e17]:
+          - link "Newsletter" [ref=e18] [cursor=pointer]:
+            - /url: "#newsletter"
+        - listitem [ref=e19]:
+          - link "Deep Shift" [ref=e20] [cursor=pointer]:
+            - /url: "#deep-shift"
+        - listitem [ref=e21]:
+          - link "Jargon" [ref=e22] [cursor=pointer]:
+            - /url: "#jargon"
+        - listitem [ref=e23]:
+          - link "AI Models" [ref=e24] [cursor=pointer]:
+            - /url: "#ai-models"
+        - listitem [ref=e25]:
+          - link "Contact" [ref=e26] [cursor=pointer]:
+            - /url: "#contact"
+  - main [ref=e27]:
+    - link "New The QE Architect Accelerator — an 8-week cohort for QE and engineering leaders. Applications open November 2026. Join the waitlist" [ref=e28] [cursor=pointer]:
+      - /url: /cohort/
+      - generic [ref=e29]: New
+      - generic [ref=e30]: The QE Architect Accelerator — an 8-week cohort for QE and engineering leaders. Applications open November 2026.
+      - generic [ref=e31]:
+        - text: Join the waitlist
+        - generic [aria-hidden] [ref=e32]: 
+    - generic [ref=e34]:
+      - generic [ref=e35]:
+        - generic [ref=e36]:
+          - paragraph [ref=e37]: Lead Quality Engineer · since 2011
+          - heading "I help teams ship higher‑quality software with smarter testing and automation." [level=1] [ref=e39]
+          - paragraph [ref=e40]: I build reliable browser automation, craft AI‑powered workflows, and share practical testing insights on YouTube to help modern engineering teams move faster.
+          - generic [ref=e41]:
+            - link "Explore my work" [ref=e42] [cursor=pointer]:
+              - /url: "#work"
+              - text: Explore my work
+              - generic [aria-hidden] [ref=e43]: 
+            - link "View my content" [ref=e44] [cursor=pointer]:
+              - /url: "#content"
+              - generic [aria-hidden] [ref=e45]: 
+              - text: View my content
+          - generic [ref=e46]:
+            - generic [ref=e47]:
+              - link "LinkedIn" [ref=e48] [cursor=pointer]:
+                - /url: https://www.linkedin.com/in/jagadeesh-jayachandran/
+                - generic [aria-hidden] [ref=e49]: 
+              - link "YouTube" [ref=e50] [cursor=pointer]:
+                - /url: https://youtube.com/@JagadeeshJayachandran
+                - generic [aria-hidden] [ref=e51]: 
+              - link "GitHub" [ref=e52] [cursor=pointer]:
+                - /url: https://github.com/JagadeeshJayachandran
+                - generic [aria-hidden] [ref=e53]: 
+            - link "Schedule a 1:1 chat" [ref=e55] [cursor=pointer]:
+              - /url: https://calendar.app.google/iJVNFyeHuAaxFiCh7
+              - generic [aria-hidden] [ref=e56]: 
+              - text: Schedule a 1:1 chat
+        - generic [aria-hidden] [ref=e57]:
+          - generic [ref=e58]: jagadeesh@qe ~ zsh
+          - generic [ref=e63]:
+            - paragraph [ref=e64]: $whoami
+            - paragraph [ref=e65]: Lead Quality Engineer — automation · AI workflows · content
+            - paragraph [ref=e66]: $npx playwright test quality.spec.ts
+            - paragraph [ref=e67]: ✓ reliable test automation ······· passed
+            - paragraph [ref=e68]: ✓ ai-assisted testing ············ passed
+            - paragraph [ref=e69]: ✓ workflow automation ············ passed
+            - paragraph [ref=e70]: ✓ educational content ············ passed
+            - paragraph [ref=e71]: 4 passed (14y 0s)
+            - paragraph [ref=e72]: $
+      - generic [ref=e74]:
+        - generic [ref=e75]:
+          - generic [ref=e76]:
+            - text: "14"
+            - emphasis [ref=e77]: +
+          - generic [ref=e78]: years in Quality Engineering
+        - generic [ref=e79]:
+          - generic [ref=e80]: "3"
+          - generic [ref=e81]: tools & extensions shipped
+        - generic [ref=e82]:
+          - generic [ref=e83]: "66"
+          - generic [ref=e84]: interview problems in the Practice Lab
+        - generic [ref=e85]:
+          - generic [ref=e86]:
+            - text: "85"
+            - emphasis [ref=e87]: +
+          - generic [ref=e88]: jargon terms decoded
+      - generic [ref=e90]:
+        - generic [ref=e91]:
+          - generic [aria-hidden] [ref=e92]: 
+          - generic [ref=e93]:
+            - text: Join
+            - strong [ref=e94]: The QE Shift
+            - text: — biweekly insights for QEs levelling up
+        - link "Subscribe" [ref=e95] [cursor=pointer]:
+          - /url: "#newsletter"
+          - text: Subscribe
+          - generic [aria-hidden] [ref=e96]: 
+    - generic [ref=e98]:
+      - generic [ref=e99]:
+        - paragraph [ref=e100]: 01 · Who I am
+        - heading "About Me" [level=2] [ref=e101]
+      - generic [ref=e103]:
+        - paragraph [ref=e104]:
+          - text: With over
+          - strong [ref=e105]: 14 years in QA/QE
+          - text: (starting in 2011), I specialize in crafting robust testing strategies and automated solutions. I've spearheaded test infrastructure modernization across complex web platforms using tools like
+          - strong [ref=e106]: Playwright and Node.js
+          - text: . Beyond the codebase, I am a passionate content creator on YouTube, focused on championing quality cultures and integrating AI‑assisted testing to elevate product quality from day one.
+        - generic [ref=e107]:
+          - heading "What I focus on" [level=3] [ref=e108]
+          - list [ref=e109]:
+            - listitem [ref=e110]:
+              - generic [aria-hidden] [ref=e111]: 
+              - generic [ref=e112]:
+                - strong [ref=e113]: Reliable test automation
+                - text: for complex web and mobile applications.
+            - listitem [ref=e114]:
+              - generic [aria-hidden] [ref=e115]: 
+              - generic [ref=e116]:
+                - strong [ref=e117]: Practical AI in testing
+                - text: and quality engineering to uncover edge cases.
+            - listitem [ref=e118]:
+              - generic [aria-hidden] [ref=e119]: 
+              - generic [ref=e120]:
+                - strong [ref=e121]: Automation workflows
+                - text: that save engineers hours each week.
+            - listitem [ref=e122]:
+              - generic [aria-hidden] [ref=e123]: 
+              - generic [ref=e124]:
+                - strong [ref=e125]: Clear educational content
+                - text: for QEs and engineering teams globally.
+    - generic [ref=e127]:
+      - generic [ref=e128]:
+        - paragraph [ref=e129]: 02 · Selected work
+        - heading "My Work" [level=2] [ref=e130]
+      - tablist "Work categories" [ref=e132]:
+        - tab "Automations & Tools" [ref=e133] [cursor=pointer]
+        - tab "Prompts & Custom GPTs" [selected] [ref=e134] [cursor=pointer]
+        - tab "QE Projects" [ref=e135] [cursor=pointer]
+      - text:  
+      - tabpanel "Prompts & Custom GPTs" [ref=e1656]:
+        - generic [ref=e1657]:
+          - generic [ref=e1658]:
+            - heading "Interactive Prompt Library" [level=3] [ref=e1659]:
+              - generic [aria-hidden] [ref=e1660]: 
+              - text: Interactive Prompt Library
+            - paragraph [ref=e1661]: Select a scenario to generate a battle-tested AI prompt for quality engineering.
+          - generic [ref=e1662]:
+            - generic [ref=e1663]: "Choose a scenario:"
+            - generic [ref=e1664]:
+              - combobox "Choose a scenario:" [ref=e1665] [cursor=pointer]:
+                - option "Select an option..." [disabled]
+                - option "End-to-End Test Case Creation"
+                - option "Comprehensive Test Plan Strategy"
+                - option "Playwright Automation Framework Setup" [selected]
+                - option "Playwright Fixtures — Agent Rules & Audit"
+                - option "Appium Mobile Automation Framework Setup"
+              - generic [aria-hidden]: 
+          - generic [ref=e1666]:
+            - generic [ref=e1667]:
+              - generic [ref=e1668]: Prompt
+              - button " Copy" [ref=e1669] [cursor=pointer]:
+                - generic [ref=e1670]: 
+                - text: Copy
+            - code [ref=e1672]: "Act as an expert SDET specializing in scalable UI/API automation. Generate the architectural blueprint and foundational boilerplate code for a production-ready Playwright framework from scratch using TypeScript. Include best practices for the Page Object Model (POM), data-driven testing, global fixture setup, custom reporter integration, and parallel execution configuration in `playwright.config.ts`. Additionally, provide a complete, copy-pasteable GitHub Actions YAML workflow for robust CI/CD integration."
+    - generic [ref=e177]:
+      - generic [ref=e178]:
+        - paragraph [ref=e179]: 03 · Learn with me
+        - heading "Content & Insights" [level=2] [ref=e180]
+        - paragraph [ref=e181]: Practical insights on testing, automation, and AI in quality engineering — plus free interactive tools I built for the QE community.
+      - generic [ref=e182]:
+        - link [ref=e183] [cursor=pointer]:
+          - /url: /practice-lab
+          - generic [aria-hidden] [ref=e185]: 
+          - heading "QE Interview Practice Lab" [level=4] [ref=e186]
+          - paragraph [ref=e187]: 168 problems across 23 categories for Staff & Principal interview prep — system design, strategy, coding, and leadership scenarios.
+          - generic [ref=e188]:
+            - text: Start practising
+            - generic [aria-hidden] [ref=e189]: 
+        - link [ref=e190] [cursor=pointer]:
+          - /url: /resume-tailor
+          - generic [aria-hidden] [ref=e192]: 
+          - heading "Resume Tailoring Tool" [level=4] [ref=e193]
+          - paragraph [ref=e194]: Paste a job description and your resume to get a fit score, gap analysis, and an AI prompt that tailors your story to the role.
+          - generic [ref=e195]:
+            - text: Tailor your resume
+            - generic [aria-hidden] [ref=e196]: 
+      - generic [ref=e197]:
+        - generic [ref=e198]:
+          - generic [ref=e199]:
+            - heading "YouTube — Start Here" [level=3] [ref=e200]:
+              - generic [aria-hidden] [ref=e201]: 
+              - text: YouTube — Start Here
+            - paragraph [ref=e202]: I publish practical videos focusing on real workflows QEs can use at work, from building robust frameworks to leveraging AI tools effectively.
+          - link "Visit my channel" [ref=e203] [cursor=pointer]:
+            - /url: https://youtube.com/@JagadeeshJayachandran
+            - text: Visit my channel
+            - generic [aria-hidden] [ref=e204]: 
+        - generic [ref=e205]:
+          - generic [ref=e206]:
+            - generic [ref=e207]:
+              - img "Playwright Masterclass Part 3 video thumbnail" [ref=e208]
+              - generic [aria-hidden] [ref=e210]: 
+            - generic [ref=e211]:
+              - heading "Playwright Masterclass Part 3" [level=4] [ref=e212]
+              - paragraph [ref=e213]: The Golden Standard for Click, Fill, and Auto-Wait.
+              - link "Watch" [ref=e214] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=XsZcupsYU3c
+                - text: Watch
+                - generic [aria-hidden] [ref=e215]: 
+          - generic [ref=e216]:
+            - generic [ref=e217]:
+              - img "Playwright Locators Strategy Part 2 video thumbnail" [ref=e218]
+              - generic [aria-hidden] [ref=e220]: 
+            - generic [ref=e221]:
+              - heading "Playwright Locators Strategy - Part 2" [level=4] [ref=e222]
+              - paragraph [ref=e223]: SHOCKING Truth About XPath EXPOSED 80/20 Locator Strategy Works Better.
+              - link "Watch" [ref=e224] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=6IaCQ70cNVc
+                - text: Watch
+                - generic [aria-hidden] [ref=e225]: 
+          - generic [ref=e226]:
+            - generic [ref=e227]:
+              - img "80/20 Playwright Series Part 1 video thumbnail" [ref=e228]
+              - generic [aria-hidden] [ref=e230]: 
+            - generic [ref=e231]:
+              - heading "80/20 Playwright Series Part 1" [level=4] [ref=e232]
+              - paragraph [ref=e233]: Automate Any Workflow in 10 Mins with this Playwright Masterclass.
+              - link "Watch" [ref=e234] [cursor=pointer]:
+                - /url: https://www.youtube.com/watch?v=DRgQa9oagY4
+                - text: Watch
+                - generic [aria-hidden] [ref=e235]: 
+      - list [ref=e237]:
+        - listitem [ref=e238]:
+          - link "Read my written insights and articles on LinkedIn" [ref=e239] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/jagadeesh-jayachandran/recent-activity/articles/
+            - generic [aria-hidden] [ref=e241]: 
+    - generic [ref=e243]:
+      - generic [ref=e244]:
+        - paragraph [ref=e245]: 04 · Newsletter
+        - heading "The QE Shift" [level=2] [ref=e246]
+        - paragraph [ref=e247]: Biweekly insights for QA engineers moving into quality engineering leadership.
+      - generic [ref=e248]:
+        - generic [ref=e249]:
+          - generic [aria-hidden] [ref=e251]: 
+          - heading "Career Strategy" [level=3] [ref=e252]
+          - paragraph [ref=e253]: Practical frameworks for moving from senior SDET to QE Architect — without waiting for permission.
+        - generic [ref=e254]:
+          - generic [aria-hidden] [ref=e256]: 
+          - heading "Technical Leadership" [level=3] [ref=e257]
+          - paragraph [ref=e258]: How to influence architecture decisions, shape test strategy, and drive quality culture across teams.
+        - generic [ref=e259]:
+          - generic [aria-hidden] [ref=e261]: 
+          - heading "Industry Insights" [level=3] [ref=e262]
+          - paragraph [ref=e263]: Trends in AI testing, automation tooling, and quality engineering that matter for your next move.
+      - generic [ref=e265]:
+        - heading "Get every edition straight to your inbox" [level=3] [ref=e266]
+        - paragraph [ref=e267]: Join quality engineers who are making the shift from execution to influence.
+        - iframe [ref=e268]:
+          - generic [ref=f1e2]:
+            - generic [ref=f1e5]:
+              - generic [ref=f1e6]: The QE Shift
+              - generic [ref=f1e7]: For the QE who's done executing and ready to lead.
+            - generic [ref=f1e9]:
+              - textbox "Enter your email" [ref=f1e12]
+              - button "Subscribe" [ref=f1e13]
+        - paragraph [ref=e269]: No spam. Unsubscribe anytime.
+      - link "Read past editions on LinkedIn" [ref=e271] [cursor=pointer]:
+        - /url: https://www.linkedin.com/newsletters/the-qe-shift-7441232010968231936/
+        - generic [aria-hidden] [ref=e272]: 
+        - text: Read past editions on LinkedIn
+        - generic [aria-hidden] [ref=e273]: 
+    - generic [ref=e275]:
+      - generic [ref=e276]:
+        - paragraph [ref=e277]: 05 · Deep work, together
+        - heading "The Deep Shift" [level=2] [ref=e278]
+        - paragraph [ref=e279]: A daily deep work session for QEs doing the real work.
+      - paragraph [ref=e281]: Show up, declare your goal, and do 50 minutes of uninterrupted deep work alongside a focused group of quality engineers. No small talk. No distractions. Just the work.
+      - generic [ref=e282]:
+        - generic [ref=e283]:
+          - generic [aria-hidden] [ref=e285]: 
+          - heading "Declare Your Goal" [level=3] [ref=e286]
+          - paragraph [ref=e287]: State what you'll work on when you book and again when you join. Pre-commitment is the first step to follow-through.
+        - generic [ref=e288]:
+          - generic [aria-hidden] [ref=e290]: 
+          - heading "50 Mins Deep Work" [level=3] [ref=e291]
+          - paragraph [ref=e292]: Camera on, microphone muted. You work, everyone works. No interruptions, no multitasking, just focused execution.
+        - generic [ref=e293]:
+          - generic [aria-hidden] [ref=e295]: 
+          - heading "5 Min Wrap-Up" [level=3] [ref=e296]
+          - paragraph [ref=e297]: Share what you shipped. Celebrate progress, reflect on blockers, and leave with momentum for your next session.
+      - generic [ref=e298]:
+        - heading "Daily Sessions" [level=3] [ref=e299]
+        - generic [ref=e301]:
+          - generic [aria-hidden] [ref=e302]: 
+          - generic [ref=e303]:
+            - strong [ref=e304]: Every day
+            - text: — 07:00–08:00 London · 1 hour · Google Meet
+        - paragraph [ref=e305]: Times shown in your local timezone when you book.
+      - link "Book Your Spot" [ref=e307] [cursor=pointer]:
+        - /url: https://cal.com/jagadeesh-jayachandran-utzplx/thedeepshift
+        - generic [aria-hidden] [ref=e308]: 
+        - text: Book Your Spot
+      - generic [ref=e309]:
+        - heading "Related Reading" [level=3] [ref=e310]:
+          - generic [aria-hidden] [ref=e311]: 
+          - text: Related Reading
+        - 'link "Hidden Universities: 5-7 hours a week hiding in your daily routine" [ref=e312] [cursor=pointer]':
+          - /url: /hidden-universities
+          - generic [aria-hidden] [ref=e314]: 
+    - generic [ref=e316]:
+      - generic [ref=e317]:
+        - paragraph [ref=e318]: 06 · Decode the buzzwords
+        - heading "Industry Jargon" [level=2] [ref=e319]
+        - paragraph [ref=e320]: A quick-reference glossary of terms you'll hear in standups, strategy meetings, and tech talks.
+      - generic [ref=e321]:
+        - generic [ref=e322]:
+          - generic [aria-hidden]: 
+          - textbox "Search jargon terms" [ref=e323]:
+            - /placeholder: Search terms… e.g. Sprint, OKR, Pipeline
+            - text: regression
+        - group "Filter by category" [ref=e324]:
+          - button "All" [ref=e325] [cursor=pointer]
+          - button "Agile & Scrum" [ref=e326] [cursor=pointer]
+          - button "DevOps & CI/CD" [ref=e327] [cursor=pointer]
+          - button "Quality Engineering" [ref=e328] [cursor=pointer]
+          - button "AI & Data" [ref=e329] [cursor=pointer]
+          - button "Corporate & Business" [ref=e330] [cursor=pointer]
+          - button "Leadership & Culture" [ref=e331] [cursor=pointer]
+        - paragraph [ref=e332]: 1 of 93 terms
+      - button "Regression Suite — flip for definition" [ref=e1673] [cursor=pointer]:
+        - generic [ref=e1674]:
+          - generic [ref=e1675]:
+            - generic [ref=e1676]: Quality Engineering
+            - heading "Regression Suite" [level=3] [ref=e1677]
+            - generic [ref=e1678]:
+              - generic [aria-hidden] [ref=e1679]: 
+              - text: Click to flip
+          - generic [ref=e1680]:
+            - generic [ref=e1681]: Definition
+            - paragraph [ref=e1682]: A collection of test cases run after every code change to ensure that existing features still work as expected.
+      - text: 
+    - generic [ref=e1267]:
+      - generic [ref=e1268]:
+        - paragraph [ref=e1269]: 07 · Pick the right model
+        - heading "AI Model Guide" [level=2] [ref=e1270]
+        - paragraph [ref=e1271]: Which model to use for what? Curated recommendations to help you pick the right AI for every workflow.
+        - generic [ref=e1272]: "✦ Updated: July 2026"
+      - group "Filter by workflow" [ref=e1274]:
+        - button "All Workflows" [ref=e1275] [cursor=pointer]
+        - button " Coding" [ref=e1276] [cursor=pointer]:
+          - generic [ref=e1277]: 
+          - text: Coding
+        - button " Research" [active] [ref=e1278] [cursor=pointer]:
+          - generic [ref=e1279]: 
+          - text: Research
+        - button " Brainstorming" [ref=e1280] [cursor=pointer]:
+          - generic [ref=e1281]: 
+          - text: Brainstorming
+        - button " PRD Writing" [ref=e1282] [cursor=pointer]:
+          - generic [ref=e1283]: 
+          - text: PRD Writing
+        - button " Content Writing" [ref=e1284] [cursor=pointer]:
+          - generic [ref=e1285]: 
+          - text: Content Writing
+        - button " Agentic Tasks" [ref=e1286] [cursor=pointer]:
+          - generic [ref=e1287]: 
+          - text: Agentic Tasks
+        - button " Data Analysis" [ref=e1288] [cursor=pointer]:
+          - generic [ref=e1289]: 
+          - text: Data Analysis
+        - button " Multimodal" [ref=e1290] [cursor=pointer]:
+          - generic [ref=e1291]: 
+          - text: Multimodal
+      - generic [ref=e1717]:
+        - generic [ref=e1718]:
+          - generic [ref=e1719]: 
+          - heading "Research" [level=3] [ref=e1720]
+        - paragraph [ref=e1721]: Literature review, deep analysis, fact-checking, and synthesis
+        - generic [ref=e1722]:
+          - generic [ref=e1723]:
+            - generic [ref=e1724]: 🥇
+            - generic [ref=e1725]:
+              - generic [ref=e1726]:
+                - generic [ref=e1727]: Gemini 2.5 Pro
+                - generic [ref=e1728]: Google
+              - paragraph [ref=e1729]: Best for multimodal research. Natively processes text, images, PDFs, and video — plus Deep Research mode with Google Search grounding for real-time accuracy.
+          - generic [ref=e1730]:
+            - generic [ref=e1731]: 🥈
+            - generic [ref=e1732]:
+              - generic [ref=e1733]:
+                - generic [ref=e1734]: Claude Opus 4.7
+                - generic [ref=e1735]: Anthropic
+              - paragraph [ref=e1736]: Lowest hallucination rate of any frontier model. Ideal for accuracy-critical, compliance-heavy, and academic research where errors carry real consequences.
+          - generic [ref=e1737]:
+            - generic [ref=e1738]: 🥉
+            - generic [ref=e1739]:
+              - generic [ref=e1740]:
+                - generic [ref=e1741]: Sonar Pro
+                - generic [ref=e1742]: Perplexity
+              - paragraph [ref=e1743]: Purpose-built for long-form research synthesis with real-time web access and cited sources. Best for staying current on fast-moving topics and market intelligence.
+          - generic [ref=e1744]:
+            - generic [ref=e1745]: ⭐
+            - generic [ref=e1746]:
+              - generic [ref=e1747]:
+                - generic [ref=e1748]: o3
+                - generic [ref=e1749]: OpenAI
+              - paragraph [ref=e1750]: Deep reasoning variant from OpenAI. Excels at multi-step analysis and synthesising conflicting sources — pairs well with web search tools for grounded output.
+      - text: 
+    - generic [ref=e1539]:
+      - generic [ref=e1540]:
+        - paragraph [ref=e1541]: 08 · Say hello
+        - heading "Get In Touch" [level=2] [ref=e1542]
+        - paragraph [ref=e1543]: If you’d like to discuss quality engineering, automation, AI in testing, or potential collaborations, reach out below. I'm always open to connecting with fellow engineering leaders and builders.
+        - generic [ref=e1544]:
+          - link "Connect on LinkedIn" [ref=e1545] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/jagadeesh-jayachandran/
+            - generic [aria-hidden] [ref=e1546]: 
+          - link "Subscribe on YouTube" [ref=e1548] [cursor=pointer]:
+            - /url: https://youtube.com/@JagadeeshJayachandran
+            - generic [aria-hidden] [ref=e1549]: 
+          - link "Follow on GitHub" [ref=e1551] [cursor=pointer]:
+            - /url: https://github.com/JagadeeshJayachandran
+            - generic [aria-hidden] [ref=e1552]: 
+          - link "j.jagadeesh.1989@gmail.com" [ref=e1554] [cursor=pointer]:
+            - /url: mailto:j.jagadeesh.1989@gmail.com
+            - generic [aria-hidden] [ref=e1555]: 
+        - link "Schedule a 1:1 Chat" [ref=e1558] [cursor=pointer]:
+          - /url: https://calendar.app.google/iJVNFyeHuAaxFiCh7
+          - generic [aria-hidden] [ref=e1559]: 
+          - text: Schedule a 1:1 Chat
+      - generic [ref=e1561]:
+        - generic [ref=e1562]:
+          - generic [ref=e1563]: Name
+          - textbox "Name" [ref=e1564]:
+            - /placeholder: John Doe
+        - generic [ref=e1565]:
+          - generic [ref=e1566]: Email
+          - textbox "Email" [ref=e1567]:
+            - /placeholder: john@example.com
+        - generic [ref=e1568]:
+          - generic [ref=e1569]:
+            - generic [ref=e1570]: Role
+            - textbox "Role" [ref=e1571]:
+              - /placeholder: Engineering Manager
+          - generic [ref=e1572]:
+            - generic [ref=e1573]: Company
+            - textbox "Company" [ref=e1574]:
+              - /placeholder: Acme Corp
+        - generic [ref=e1575]:
+          - generic [ref=e1576]: How can I help?
+          - textbox "How can I help?" [ref=e1577]:
+            - /placeholder: I'd love to discuss...
+        - button "Send Message" [ref=e1578] [cursor=pointer]:
+          - text: Send Message
+          - generic [aria-hidden] [ref=e1579]: 
+        - status [ref=e1580]
+  - contentinfo [ref=e1581]:
+    - generic [ref=e1582]:
+      - generic [ref=e1583]:
+        - generic [ref=e1584]:
+          - generic [ref=e1585]: ~/jagadeesh.dev
+          - paragraph [ref=e1586]: Helping teams ship higher‑quality software with smarter testing, automation, and AI.
+        - navigation "Explore" [ref=e1587]:
+          - heading "Explore" [level=4] [ref=e1588]
+          - list [ref=e1589]:
+            - listitem [ref=e1590]:
+              - link "Home" [ref=e1591] [cursor=pointer]:
+                - /url: "#home"
+            - listitem [ref=e1592]:
+              - link "About" [ref=e1593] [cursor=pointer]:
+                - /url: "#about"
+            - listitem [ref=e1594]:
+              - link "Work" [ref=e1595] [cursor=pointer]:
+                - /url: "#work"
+            - listitem [ref=e1596]:
+              - link "Content" [ref=e1597] [cursor=pointer]:
+                - /url: "#content"
+            - listitem [ref=e1598]:
+              - link "Contact" [ref=e1599] [cursor=pointer]:
+                - /url: "#contact"
+        - navigation "Resources" [ref=e1600]:
+          - heading "Resources" [level=4] [ref=e1601]
+          - list [ref=e1602]:
+            - listitem [ref=e1603]:
+              - link "Newsletter" [ref=e1604] [cursor=pointer]:
+                - /url: "#newsletter"
+            - listitem [ref=e1605]:
+              - link "Deep Shift" [ref=e1606] [cursor=pointer]:
+                - /url: "#deep-shift"
+            - listitem [ref=e1607]:
+              - link "Jargon" [ref=e1608] [cursor=pointer]:
+                - /url: "#jargon"
+            - listitem [ref=e1609]:
+              - link "AI Models" [ref=e1610] [cursor=pointer]:
+                - /url: "#ai-models"
+            - listitem [ref=e1611]:
+              - link "Practice Lab" [ref=e1612] [cursor=pointer]:
+                - /url: /practice-lab
+            - listitem [ref=e1613]:
+              - link "Resume Tailor" [ref=e1614] [cursor=pointer]:
+                - /url: /resume-tailor
+            - listitem [ref=e1615]:
+              - link "Cohort" [ref=e1616] [cursor=pointer]:
+                - /url: /cohort/
+            - listitem [ref=e1617]:
+              - link "Privacy" [ref=e1618] [cursor=pointer]:
+                - /url: /privacy/
+        - navigation "Connect" [ref=e1619]:
+          - heading "Connect" [level=4] [ref=e1620]
+          - list [ref=e1621]:
+            - listitem [ref=e1622]:
+              - link "LinkedIn" [ref=e1623] [cursor=pointer]:
+                - /url: https://www.linkedin.com/in/jagadeesh-jayachandran/
+            - listitem [ref=e1624]:
+              - link "YouTube" [ref=e1625] [cursor=pointer]:
+                - /url: https://youtube.com/@JagadeeshJayachandran
+            - listitem [ref=e1626]:
+              - link "GitHub" [ref=e1627] [cursor=pointer]:
+                - /url: https://github.com/JagadeeshJayachandran
+            - listitem [ref=e1628]:
+              - link "Email" [ref=e1629] [cursor=pointer]:
+                - /url: mailto:j.jagadeesh.1989@gmail.com
+      - generic [ref=e1630]:
+        - paragraph [ref=e1631]: © 2026 Jagadeesh Jayachandran. All rights reserved.
+        - paragraph [ref=e1632]:
+          - generic [aria-hidden] [ref=e1633]: 
+          - text: Vanilla HTML · CSS · JS — tested with Playwright
